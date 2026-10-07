@@ -52,6 +52,4 @@ GitHub Actions runs the same core test and verification sequence on every push a
 - Do not describe model outputs as official, certified, validated, construction-ready, or safety-approved.
 - Do not use this repository for live railway operations or safety-critical decisions.
 - Generated Coastal outputs are intentionally not committed; regenerate them locally from the scripts.
-- No reuse license is granted at this time. See [`LICENSE`](LICENSE).
-
-For the one-time publication procedure, see [`PUBLISHING.md`](PUBLISHING.md).
+- Original software and documentation are available under the [`MIT License`](LICENSE). Third-party and government-derived materials remain subject to their original terms; see [`NOTICE.md`](NOTICE.md).
