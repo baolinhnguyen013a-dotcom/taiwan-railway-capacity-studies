@@ -1,0 +1,6 @@
+penalty_id,conversion_cost_component,cost_category,escalation_penalty_mtwd,technical_and_operational_basis
+CP-01,New Tunnel Launching & Retrieval Shafts in Dense Urban Zone,Civil Work,1450.0,Retrofitting a second bore 15 years later requires acquiring and excavating new launching shafts in mature urban surroundings (e.g. near Wuxing St or Zoo)
+CP-02,Live Operating Line Structural Underpinning & Safety Enclosures,Safety Protection,850.0,Adjacent boring within 1.5D distance requires continuous ground freezing/jet grouting and acoustic real-time monitoring of live operational single track
+CP-03,Nighttime-Only Construction Shifts (Non-Revenue Hours 00:30-05:00),Labor & Schedule Premium,1650.0,"Breakthrough into stations and crossover installation can only occur during 4.5h nightly windows; labor unit costs increase by 240%, project duration triples"
+CP-04,Revenue Interruption & Bus Bridging Compensation,Operational Penalty,1200.0,Mandatory weekend and holiday line closures for track tying-in and CBTC commissioning require temporary shuttle buses and ticket revenue compensation
+CP-05,Total Conversion Escalation Premium vs Initial Double-Track,Summary Index,5150.0,Total cost to add second track post-opening is 2.38x higher than building double-track in initial phase! Single-track design is only justified if future expansion is permanently unnecessary

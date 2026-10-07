@@ -1,0 +1,10 @@
+horizon_year,horizon_phase,growth_scenario,daily_boardings,peak_hour_boardings,max_link_flow_y35_y36_pphpd,link_flow_y39_y01_pphpd,scenario_rationale
+2032,Opening Year,Low Growth (-15%),295000,33500,10800,2250,Opening year initial ramp-up
+2032,Opening Year,Baseline Forecast,347000,39400,12700,2650,DORTS approved feasibility opening baseline
+2032,Opening Year,High Tech Growth (+20%),416000,47200,15200,3180,Accelerated tech park redevelopment
+2041,Intermediate Horizon (Year 10),Low Growth,335000,38100,12300,2550,Demographic stabilization
+2041,Intermediate Horizon (Year 10),Baseline Forecast,394000,44800,14450,3010,Network integration effects (North/South Ring fully open)
+2041,Intermediate Horizon (Year 10),High Tech Growth,473000,53700,17350,3620,Neihu 2.0 / Xinyi expansion
+2051,Target Horizon Year (Target 140),Low Growth (-15%),366000,41800,13300,2730,Conservative fertility/aging model
+2051,Target Horizon Year (Target 140),Baseline Forecast,431000,49200,15640,3210,DORTS Comprehensive Planning approved target ridership
+2051,Target Horizon Year (Target 140),High Tech Growth (+25%),538000,61500,19550,4010,Intensified TOD densification across eastern corridor

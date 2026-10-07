@@ -1,0 +1,7 @@
+hazard_id,hazard_name,hazard_category,design_criterion_magnitude,engineering_mitigation_measure
+HAZ-01,Design Basis Earthquake (DBE - 475 Year Return),Seismic Ground Motion,0.33 g,Taipei Seismic Zone 1; structural elastic performance without significant inelastic damage
+HAZ-02,Maximum Considered Earthquake (MCE - 2500 Year Return),Seismic Extreme Event,0.40 g,Tunnel and stations prevent collapse; ductile detailing of diaphragm walls and segment joints
+HAZ-03,Lun-tou Fault (崙頭斷層) Tectonic Dislocation,Active Fault Rupture,150 mm,Flexible segment joints and oversized clearance profile across chainage K12+850 to K13+050
+HAZ-04,Keelung River 200-Year Flood Crest Elevation,River Hydrology Flood,+10.20 m MSL,Station entrance curbs set at minimum +11.30 m MSL (+1.1m freeboard); submarine flood bulkheads at shafts
+HAZ-05,Jingmei River 200-Year Flood Crest Elevation,River Hydrology Flood,+16.80 m MSL,Muzha portal protected by automated rising floodgates and heavy drainage sump pumps (3 x 1500 m3/h)
+HAZ-06,Soil Liquefaction Susceptibility,Geotechnical Hazard,High in Layers 2 & 4,Songshan formation silty sands; mitigated by diaphragm walls penetrating into non-liquefiable gravel bedrock

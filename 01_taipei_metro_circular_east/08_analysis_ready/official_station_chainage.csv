@@ -1,0 +1,12 @@
+station_code,chainage_km,distance_from_previous_station_m,platform_configuration,source_page
+Y30,0.385,,island,Table 8.1-1 p. 8-4
+Y31,1.370,985,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y32,1.905,535,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y33,2.780,875,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y34,3.805,1025,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y35,4.710,905,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y36,6.395,1685,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y37,7.220,825,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y38,9.010,1790,island,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y39,10.010,1000,stacked,Table 8.1-1 p. 8-4; summary p. 摘-7
+Y01,13.250,3240,boundary station; South Circular design,Table 8.1-1 p. 8-4

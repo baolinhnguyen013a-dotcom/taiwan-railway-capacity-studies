@@ -1,0 +1,13 @@
+station_code,station_name,nominal_dwell_sec,minimum_dwell_sec,peak_dwell_sec,passenger_flow_characteristics,turnback_cycle_time_sec,turnback_infrastructure
+Y29,Jiannan Road,45,35,55,Terminal / transfer node (Wenhu Line); passenger exchange and driverless route reset,75,Scissors turnback north of station
+Y30,Lequn,25,20,30,Intermediate residential/commercial station,0,No turnback facility
+Y31,Zhouzi Park,35,25,45,Heavy AM alighting station (Neihu Tech Park north),0,"Stacked platform, vertical passenger flow"
+Y32,Dagangqian Park,40,30,50,"Core Neihu Tech Park station, major alighting hub",0,No turnback facility
+Y33,Ruiguang Park,30,25,35,Tech park station + intermediate crossover,85,Mid-line pocket track emergency turnback
+Y34,Neihu Admin Center,25,20,30,Civic center and logistics hub,0,No turnback facility
+Y35,Xinhu 1st Road,35,25,45,Transfer to Minsheng-Xizhi Line + East Depot junction,90,Depot lead entry/exit turnback
+Y36,Songshan,50,40,65,"Major transfer hub (TRA Western Line, MRT Green Line G19)",85,Cross-river emergency trailing turnback
+Y37,Yongchun,50,40,65,Major transfer hub (MRT Bannan Line BL19),0,High passenger interchange volumes
+Y38,Xiangshan,45,35,60,Major transfer hub (MRT Xinyi Line R02) + Crossover,80,South CBD short-turn scissors turnback
+Y39,Wuxing Street,25,20,30,Residential foot of mountain station,0,Boundary station before mountain tunnel S1
+Y01,Taipei Zoo,50,40,60,"Terminal transfer hub (Wenhu Line, South Circular, Gondola)",75,Terminal scissors turnback and South Circular through-run

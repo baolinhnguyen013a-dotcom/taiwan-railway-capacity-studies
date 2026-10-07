@@ -1,0 +1,4 @@
+time_band_id,period_name,start_time,end_time,duration_hr,pattern_headway,trains_per_hour_dir,trains_in_service,operational_impact_verdict
+S3-TB01,AM Peak Constrained,07:00,09:00,2.0,Y29-Y01: 270s (4.5 min),13.3,14,S3 (Y30-Y33 single track) forces headway ceiling to 270s due to 135s one-way clearing between passing loops; results in 33% capacity loss on Neihu core corridor
+S3-TB02,PM Peak Constrained,17:00,19:30,2.5,Y29-Y01: 270s (4.5 min),13.3,14,Capacity deficit leads to severe platform crowding at Y31 and Y32; passenger waiting delay increases by 4.2x
+S3-TB03,Interpeak Feasible,09:00,17:00,8.0,Y29-Y01: 360s (6.0 min),10.0,10,Interpeak headway of 6 min fits within single-track passing loop cycle with 90s recovery buffer

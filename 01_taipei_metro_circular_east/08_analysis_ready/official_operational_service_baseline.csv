@@ -1,0 +1,9 @@
+time_band_id,period_name,start_time,end_time,duration_hr,headway_ccw_s,tph_ccw,nominal_cap_ccw_pphpd,critical_demand_ccw_pphpd,headway_cw_s,tph_cw,nominal_cap_cw_pphpd,critical_demand_cw_pphpd,active_fleet_trainsets,service_pattern_notes,source_citation
+TB01,Early Morning Ramp,06:00,07:00,1.0,360,10.0,6500,2400,360,10.0,6500,2100,24,Symmetric initial fleet rollout from South and East Depots,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB02,Morning Peak (AM Peak),07:00,09:00,2.0,150,24.0,15600,15250,198,18.18,11818,11210,66,Asymmetric whole-ring: CCW 24 tph (16 full-ring + 8 Y22-Y38 short-turn); CW 18 tph full-ring; Meets 15250 and 11210 pphpd demand,DORTS Comprehensive Plan Table 8.2-2 p. 8-9; Section 8.2.2 pp. 8-11 to 8-13
+TB03,Midday Interpeak,09:00,12:00,3.0,360,10.0,6500,4200,360,10.0,6500,3800,24,Steady daytime full-ring circulation; short-turn sets stabled at East Depot and pocket sidings,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB04,Afternoon Interpeak,12:00,17:00,5.0,360,10.0,6500,4500,360,10.0,6500,4100,24,Full-ring circulation across 49.31 km network,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB05,Evening Peak (PM Peak),17:00,19:30,2.5,180,20.0,13000,12600,180,20.0,13000,12100,56,Outbound evacuation from Neihu Tech Park and Xinyi District towards New Taipei corridors,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB06,Evening Shoulder,19:30,22:00,2.5,360,10.0,6500,3500,360,10.0,6500,3200,24,Post-peak reduction; trains returning to South and East Depots,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB07,Late Night,22:00,24:00,2.0,600,6.0,3900,1800,600,6.0,3900,1600,16,Final revenue sweeps and inter-modal transfer feeds,DORTS Comprehensive Plan Section 8.2 p. 8-8
+TB08,Nightly Maintenance Window,00:00,06:00,6.0,0,0.0,0,0,0,0.0,0,0,0,Track possession window 00:30-05:00 for civil/catenary/track inspection and cleaning,DORTS Comprehensive Plan Section 8.2.3 p. 8-18

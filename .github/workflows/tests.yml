@@ -1,0 +1,28 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Taipei preliminary-study tests
+        working-directory: 01_taipei_metro_circular_east
+        run: python -m unittest discover -s tests -v
+      - name: Coastal proof-of-concept tests
+        working-directory: 02_tra_coastal_line_optimization
+        run: python -m unittest discover -s tests -v
+      - name: Generate Coastal exploratory simulation
+        working-directory: 02_tra_coastal_line_optimization
+        run: python scripts/run_bridge_bottleneck_simulation.py
+      - name: Coastal internal-consistency checks
+        working-directory: 02_tra_coastal_line_optimization
+        run: python scripts/verify_coastal_model_integrity.py

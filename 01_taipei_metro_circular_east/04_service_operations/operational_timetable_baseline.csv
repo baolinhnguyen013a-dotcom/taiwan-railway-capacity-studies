@@ -1,0 +1,9 @@
+time_band_id,period_name,start_time,end_time,duration_hr,headway_sec,headway_min,trains_per_hour_dir,trains_in_service,cycle_time_min,nominal_capacity_pphpd,crush_capacity_pphpd,operational_notes
+TB01,Early Morning Ramp,06:00,07:00,1.0,360,6.0,10,10,54.0,6500,8400,Initial fleet rollout from South and East Depots; symmetric service
+TB02,Morning Peak (AM Peak),07:00,09:00,2.0,180,3.0,20,18,54.0,13000,16800,Maximum service into Neihu Tech Park; unconstrained double-track headway
+TB03,Midday Interpeak,09:00,12:00,3.0,360,6.0,10,10,54.0,6500,8400,Steady daytime circulation; fleet energy conservation mode
+TB04,Afternoon Interpeak,12:00,17:00,5.0,360,6.0,10,10,54.0,6500,8400,Evenly distributed inter-district traffic and shopping trips
+TB05,Evening Peak (PM Peak),17:00,19:30,2.5,200,3.33,18,17,54.0,11700,15120,"Outbound evacuation of Neihu Tech Park towards Xinyi, Songshan and Dazhi"
+TB06,Evening Shoulder,19:30,22:00,2.5,400,6.67,9,9,54.0,5850,7560,"Post-peak wind-down, partial train restaging to East Depot"
+TB07,Late Night,22:00,24:00,2.0,600,10.0,6,6,54.0,3900,5040,Last train sweeps; feeder connectivity to mainline rail and high-speed rail
+TB08,Nightly Non-Revenue / Maint,00:00,06:00,6.0,0,0.0,0,0,0.0,0,0,Revenue closed; track possession window 00:30 - 05:00 for civil/catenary/track inspection

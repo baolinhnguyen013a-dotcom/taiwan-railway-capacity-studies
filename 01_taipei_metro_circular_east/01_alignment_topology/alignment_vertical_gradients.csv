@@ -1,0 +1,26 @@
+gradient_id,start_chainage_km,end_chainage_km,length_m,grade_permille,start_elevation_m,end_elevation_m,vertical_curve_radius_m,description
+G01,0.0,0.3,300,2.0,-10.5,-9.9,3000,Y29 Jiannan station throat drainage grade
+G02,0.3,1.2,900,-15.2,-9.9,-23.58,3500,Descent under Dazhi commercial district and MRT Wenhu Line
+G03,1.2,1.45,250,2.0,-23.58,-23.08,3000,Y30 station platform area
+G04,1.45,2.2,750,2.1,-23.08,-21.5,3000,Gradual climb toward Zhouzi Park stacked platform
+G05,2.2,2.45,250,2.0,-21.5,-21.0,3000,Y31 stacked station platform zone
+G06,2.45,3.0,550,4.2,-21.0,-18.69,3000,Grade transition entering Dagangqian Park
+G07,3.0,3.25,250,2.0,-18.69,-18.19,3000,Y32 Dagangqian station platform
+G08,3.25,3.95,700,2.4,-18.19,-16.51,3000,Ascent under Ruiguang Road spine
+G09,3.95,4.2,250,2.0,-16.51,-16.01,3000,Y33 Ruiguang Park station and scissors crossover zone
+G10,4.2,5.05,850,-8.6,-16.01,-23.32,3500,Descent under expressway slip roads and Minquan E. Rd
+G11,5.05,5.3,250,2.0,-23.32,-22.82,3000,Y34 Neihu Admin Center station platform
+G12,5.3,6.25,950,5.5,-22.82,-17.6,3000,Ascent to East Depot junction and Y35
+G13,6.25,6.5,250,2.0,-17.6,-17.1,3000,Y35 Xinhu 1st Rd station platform
+G14,6.5,7.4,900,-32.5,-17.1,-46.35,4000,Deep dive under Keelung River bed (deep sag profile)
+G15,7.4,7.95,550,34.3,-46.35,-27.48,4000,Steep climb out of river channel under TRA/THSR rail tunnels
+G16,7.95,8.2,250,2.0,-27.48,-26.98,3000,Y36 Songshan stacked deep station platform
+G17,8.2,8.7,500,20.4,-26.98,-16.78,3000,Climb to Yongchun under Songshan Rd
+G18,8.7,8.95,250,2.0,-16.78,-16.28,3000,Y37 Yongchun station platform
+G19,8.95,10.45,1500,-0.7,-16.28,-17.33,3000,Gentle grade under Songren Rd financial district
+G20,10.45,10.7,250,2.0,-17.33,-16.83,3000,Y38 Xiangshan station platform and crossover
+G21,10.7,11.45,750,11.2,-16.83,-8.43,3000,Climb towards foot of mountain at Wuxing St
+G22,11.45,11.7,250,2.0,-8.43,-7.93,3000,Y39 Wuxing St station platform
+G23,11.7,13.3,1600,15.6,-7.93,17.03,4000,Climb into Muzhishan mountain rock tunnel
+G24,13.3,14.55,1250,-11.4,17.03,2.78,4000,Descent crossing under Wanfang IC and Jingmei River
+G25,14.55,14.732,182,2.0,2.78,3.14,3000,Y01 Taipei Zoo terminal station platform

@@ -1,0 +1,5 @@
+bridge_id,bridge_name,bridge_length_m,traversal_time_express_sec,traversal_time_commuter_sec,reversal_cycle_express_sec,reversal_cycle_commuter_sec,alternating_occupied_sec_per_30min,alternating_utilization_pct,platooned_occupied_sec_per_30min,platooned_utilization_pct,platooned_free_buffer_sec,capacity_verdict
+BRG01,中港溪橋,450.0,21.7,22.4,54.7,55.4,331.0,18.39,401.6,22.31,1398.4,PASSES_ASSUMED_ARITHMETIC_THRESHOLD
+BRG02,後龍溪橋,700.0,29.6,31.0,62.6,64.0,380.9,21.16,435.8,24.21,1364.2,PASSES_ASSUMED_ARITHMETIC_THRESHOLD
+BRG03,大安溪橋,1100.0,42.1,44.7,75.1,77.7,460.8,25.6,490.7,27.26,1309.3,PASSES_ASSUMED_ARITHMETIC_THRESHOLD
+BRG04,大甲溪橋,1250.0,46.8,49.8,79.8,82.8,490.8,27.27,511.3,28.4,1288.7,PASSES_ASSUMED_ARITHMETIC_THRESHOLD

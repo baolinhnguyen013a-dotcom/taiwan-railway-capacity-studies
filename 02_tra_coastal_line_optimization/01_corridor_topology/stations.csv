@@ -1,0 +1,17 @@
+station_id,station_name_en,station_name_zh,chainage_km,distance_from_tanwen_km,platform_type,current_track_count,has_passing_loop,is_historic_wood_station,operational_role
+STA01,Tanwen,談文,4.5,0.0,Island,2,TRUE,TRUE,Northern bottleneck gateway / Coastal five-treasure
+STA02,Dashan,大山,11.3,6.8,Island,3,TRUE,TRUE,Passing & overtaking station / Coastal five-treasure
+STA03,Houlong,後龍,15.0,10.5,Elevated Island,3,TRUE,FALSE,Double-track section / High-speed passing
+STA04,Longgang,龍港,18.6,14.1,Side,2,FALSE,FALSE,Local halt on double track
+STA05,Baishatun,白沙屯,26.7,22.2,Island+Side,3,TRUE,FALSE,Pilgrimage hub & major passing node
+STA06,Xinpu,新埔,29.8,25.3,Island,2,TRUE,TRUE,Passing station / Coastal five-treasure
+STA07,Tongxiao,通霄,35.6,31.1,Island+Side,3,TRUE,FALSE,Town centre passing hub
+STA08,Yuanli,苑裡,41.7,37.2,Island+Side,3,TRUE,FALSE,Regional express stop & passing hub
+STA09,Rinan,日南,49.4,44.9,Island,2,TRUE,TRUE,Approaching Daan River / Coastal five-treasure
+STA10,Dajia,大甲,54.1,49.6,Island+Side,4,TRUE,FALSE,Major urban hub & transfer center
+STA11,Taichung Port,臺中港,59.3,54.8,Island,4,TRUE,FALSE,Freight yard branch gateway
+STA12,Qingshui,清水,65.3,60.8,Island+Side,3,TRUE,FALSE,Dajia River southern abutment hub
+STA13,Shalu,沙鹿,68.5,64.0,Island+Side,3,TRUE,FALSE,Major commuter & future MRT transfer hub
+STA14,Longjing,龍井,73.1,68.6,Island,2,TRUE,FALSE,Passing station / Coal yard junction
+STA15,Dadu,大肚,78.1,73.6,Island,2,TRUE,FALSE,Commuter passing node
+STA16,Zhuifen,追分,83.1,78.6,Island+Side,4,TRUE,TRUE,Chengzhui line triangle junction / Coastal five-treasure

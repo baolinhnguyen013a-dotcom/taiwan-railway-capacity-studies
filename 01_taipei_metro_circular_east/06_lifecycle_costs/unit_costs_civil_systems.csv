@@ -1,0 +1,14 @@
+cost_item_id,category,item_description,unit,unit_cost_twd_million,unit_cost_usd_million,cost_basis_and_provenance
+UC-01,Civil Tunnel,Twin-Bore Shield Tunnel (Double Track route-km),km,4200.0,131.25,DORTS CF710/CF720/CF763 tender bid benchmarks and Taipei metro actual procurement
+UC-02,Civil Tunnel,Single-Bore Shield Tunnel (Single Track route-km),km,2350.0,73.44,"Single 6.1m TBM drive, 50% segment volume, savings ~44% civil capex relative to twin bore"
+UC-03,Civil Tunnel,Large Single-Bore Double-Track Shield Tunnel (11.8m OD),km,5800.0,181.25,"11.8m slurry/EPB TBM, heavy segments, internal dividing fire-separation deck"
+UC-04,Civil Station,Cut-and-Cover Underground Station (Standard 2-Level Island),station,5200.0,162.5,"Diaphragm walls depth 35-42m, top-down excavation, concourse + platform, architectural finish"
+UC-05,Civil Station,Cut-and-Cover Deep Stacked Transfer Station (3-4 Levels),station,8800.0,275.0,"Y31, Y36, Y37, Y38 deep box down to -38m, multi-level diaphragm wall, underpinning, transfer concourses"
+UC-06,Special Civil,Muzhishan Mountain Deep Shield Tunnel (CF763 Twin Bore),km,5100.0,159.38,"Dual-mode rock TBM through Muzhishan sandstone & Lun-tou fault zone, high water pressure"
+UC-07,Special Civil,Muzhishan Mountain Deep Shield Tunnel (S1 Single Bore),km,2850.0,89.06,Single rock TBM drive; direct initial civil savings of NT$ 2.25B / km over 3.16 km (= NT$ 7.1B gross civil saving)
+UC-08,Trackwork,Underground Crossover / Turnout Cavern,crossover,520.0,16.25,"Underground scissors crossover widened cavern box, turnout machines, signaling interlocking"
+UC-09,Trackwork,Ballastless Plinth Track + 750V Conductor Rail,track-km,185.0,5.78,UIC 60 continuous welded rail on concrete plinths with direct fixation fasteners & bottom-contact 3rd rail
+UC-10,E&M Signalling,CBTC Moving Block Wayside & Telecom Package,route-km,240.0,7.5,"Zone controllers, redundant 5.8GHz / LTE-R radio, vital interlockings, axle-counter fallback"
+UC-11,Rolling Stock,Hitachi 4-Car Driverless EMU Trainset,trainset,360.0,11.25,Hitachi Rail Italy stainless/aluminum EMU consist complete with ATO/ATP onboard computers
+UC-12,OPEX Annual,"Operating, Traction Energy & Routine Maintenance",route-km/yr,165.0,5.16,"Annual traction electricity, station staffing, routine track and rolling stock maintenance"
+UC-13,E&M Renewal,Periodic Mid-Life E&M Overhaul (Year 15-20),% initial E&M,22.0,0.22,"Traction inverter VVVF refurbishment, bogie overhaul, wayside signaling processor refresh"

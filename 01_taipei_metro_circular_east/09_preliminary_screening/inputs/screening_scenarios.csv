@@ -1,0 +1,8 @@
+scenario_id,demand_multiplier,usable_load_factor,runtime_multiplier,dwell_s,change_s,recovery_s,scenario_description,classification,sensitivity_note
+S00,1.0,1.0,1.0,0.0,18.0,60.0,Baseline Nominal Demand and Pure Running Time with Standard Switch/Recovery,PROXY_SCREENING_ASSUMPTION,Sensitivities are exploratory parametric screenings and not probabilities
+S01,1.0,0.9,1.0,30.0,18.0,60.0,Standard Intermediate Station Dwell with 90% Usable Load Factor,ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities
+S02,1.1,0.9,1.0,30.0,18.0,60.0,Demand Surge (+10%) with 90% Usable Load Factor and 30s Dwell,ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities
+S03,1.0,0.9,1.1,45.0,30.0,120.0,Operational Stress (+10% Runtime, 45s Dwell, 30s Switch, 120s Recovery),ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities
+S04,1.2,0.8,1.1,45.0,30.0,120.0,Severe Compound Stress (+20% Demand, 80% Usable Load, Stressed Margins),ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities
+S05,0.9,1.0,0.9,0.0,0.0,0.0,Optimistic Unconstrained Cycle (-10% Demand, -10% Runtime, Zero Buffer),ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities
+S06,1.0,0.7,1.0,30.0,18.0,60.0,Passenger Comfort / Degraded Vehicle Capacity (70% Usable Load Factor),ASSUMED_SCREENING_SENSITIVITY,Sensitivities are exploratory parametric screenings and not probabilities

@@ -1,0 +1,11 @@
+constraint_id,chainage_km,feature_name,feature_type,vertical_clearance_m,horizontal_clearance_m,governing_agency,critical_engineering_requirement
+SC-01,0.15,MRT Wenhu Line Viaduct Foundation Piers,Elevated Rail Guideway,8.5,4.2,TRTC / DORTS,Strict foundation settlement limit < 5 mm; automatic robotic total station monitoring
+SC-02,1.85,Ruiguang Road Deep Utility Spine (161kV Taipower & Gas),Municipal Utility Culvert,3.2,1.8,Taipei Public Works / Taipower,Street width 21-23m; clearance between station diaphragm walls and 161kV oil-filled power cables < 2.0m
+SC-03,4.85,National Highway 1 (Zhongshan Fwy) Viaduct Piles,National Expressway Viaduct,12.0,6.5,Taiwan Freeway Bureau,"Bridge pier protection casing, continuous pile deflection sensing"
+SC-04,7.15,Keelung River Navigable Channel and Levee Walls,River / Navigable Floodway,14.2,0.0,"10th River Management Branch, WRA",Minimum soil cover >= 1.5x bore diameter (9.15m); scour monitoring and hydrographic sonar inspection
+SC-05,7.95,TRA Western Line & THSR Songshan Underground Railway Box,Operating High-Speed / Mainline Rail,4.8,3.5,TRC / THSRC / Railway Bureau,Crossing beneath 4 operating electrified rail tracks; strict track distortion limit <= 3 mm
+SC-06,8.75,MRT Bannan Line (Yongchun Station Box & Running Tunnels),Operating High-Capacity Subway,3.8,5.0,Taipei Metro TRTC,"Underpinning, real-time vibration velocity limit < 5 mm/s to prevent revenue service disruption"
+SC-07,10.55,MRT Xinyi Line (Xiangshan Station Tail Tracks),Operating High-Capacity Subway,5.2,4.5,Taipei Metro TRTC,"Electrical stray current isolation, seismic joint decoupling"
+SC-08,12.95,Lun-tou Fault Zone (Active / Quaternary Trace Boundary),Geological Structural Fault,0.0,0.0,Central Geological Survey (GSMDA),Flexible segmented lining rings capable of accommodating +/- 150 mm tectonic shear without waterproof failure
+SC-09,13.85,National Highway 3A (Wanfang Interchange) Deep Bridge Piles,Expressway Bridge Foundation,6.8,5.2,Taiwan Freeway Bureau,Bridge pile integrity testing before and after TBM passing; seismic isolation bearings
+SC-10,14.35,Jingmei River Flood Embankment & Floodgates,Municipal Flood Protection System,11.5,8.0,Taipei Hydraulic Engineering Office,Dual motorized submarine floodgates (防水閘門) at tunnel portals to prevent regional flooding inundation

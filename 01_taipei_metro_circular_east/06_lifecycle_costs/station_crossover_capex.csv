@@ -1,0 +1,13 @@
+station_code,station_name,platform_config,levels,station_civil_mep_capex_mtwd,crossover_count,crossover_capex_mtwd,total_station_facility_capex_mtwd,engineering_remarks
+Y29,Jiannan Road,Island,2,5400.0,1,520.0,5920.0,Wenhu Line interchange; boundary terminal throat
+Y30,Lequn / Xiatayou,Island,2,4800.0,0,0.0,4800.0,Standard 2-level cut-and-cover station box
+Y31,Zhouzi Park,Stacked Side,3,6200.0,0,0.0,6200.0,Narrow Ruiguang road profile; stacked platform levels
+Y32,Dagangqian Park,Island,2,5100.0,0,0.0,5100.0,Core tech park hub; high platform passenger handling capacity
+Y33,Ruiguang Park,Island,2,5300.0,1,520.0,5820.0,Station box + mid-line scissors crossover pocket track
+Y34,Neihu Admin Center,Island,2,4900.0,0,0.0,4900.0,Standard civic station box
+Y35,Xinhu 1st Road,Island,2,5600.0,1,680.0,6280.0,Minsheng-Xizhi Line transfer interface + East Depot dual lead junction
+Y36,Songshan,Stacked Island,4,9400.0,1,450.0,9850.0,"Deep river undercrossing, 4-level box, TRA & MRT Green Line underground concourses"
+Y37,Yongchun,Island,3,7900.0,0,0.0,7900.0,Bannan Line BL19 underground transfer pedestrian passageway
+Y38,Xiangshan,Island,3,7600.0,1,520.0,8120.0,Xinyi Line R02 transfer connection + scissors crossover
+Y39,Wuxing Street,Island,2,4900.0,0,0.0,4900.0,Foot of mountain station; transition to mountain tunnel
+Y01,Taipei Zoo,Island,2,5500.0,1,520.0,6020.0,Wenhu Line & South Circular transfer; terminal turnback throat

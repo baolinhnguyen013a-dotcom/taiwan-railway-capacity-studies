@@ -1,0 +1,10 @@
+benchmark_id,measure,value,unit,horizon,source_id,page_or_section
+OFF-ROUTE-01,Route length,13.25,km,Approved comprehensive plan,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-4; section 5.3 p. 5-19
+OFF-STATION-01,New underground stations,10,stations,Approved comprehensive plan,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-4; section 5.3 p. 5-19
+OFF-DEMAND-01,Maximum AM interstation directional flow Y36 to Y35,15250,passengers/hour/direction,Target year 2051,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-5; Table 6.2-9 p. 6-19
+OFF-DEMAND-01B,Y39-Y01 target peak directional flow,10310,passengers/hour/direction,Target year 2051,DORTS_COMPREHENSIVE_PLAN,Section 8.3 figure 8.3-1 p. 8-19; Table 6.2-9 p. 6-19
+OFF-DEMAND-02,Daily total alightings,411300,passengers/day,Target year 2051,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-5
+OFF-COST-01,Approved total construction cost,102.486,NT$ billion,Approved comprehensive plan,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-7; table 2.3-12; table 12.1-2
+OFF-APPRAISAL-01,Economic appraisal discount rate,4,percent,Approved comprehensive plan,DORTS_COMPREHENSIVE_PLAN,Chapter 2 assumptions p. 2-19
+OFF-APPRAISAL-02,Financial appraisal discount rate,3,percent,Approved comprehensive plan,DORTS_COMPREHENSIVE_PLAN,Chapter 2 assumptions p. 2-19; Section 12.4.3
+OFF-OPS-01,Preferred full-ring fleet in service concept,69,trainsets,Full ring,DORTS_COMPREHENSIVE_PLAN,Summary p. 摘-6; Section 8.2.2 pp. 8-11 to 8-13

@@ -1,0 +1,13 @@
+structure_id,structure_type,chainage_km,contract_package,length_m,depth_m,internal_dimensions_m,construction_method,purpose_and_safety_function
+SH01,Shield Working / Retrieval Shaft,0.25,CF710,22.0,25.0,18.0 x 12.0,Diaphragm Wall Rectangular Box,Shield retrieval from Y29 and launch towards Y30; temporary muck haulage
+SH02,Mid-Tunnel Ventilation Shaft VS-01,3.45,CF710,15.0,26.0,12.0 x 10.0,Secant Pile / Cast-in-place Box,"Ruiguang corridor ventilation, smoke extraction, and emergency egress stairs (NFPA 130)"
+SH03,Keelung River North Launch Shaft SH-03,6.65,CF730,28.0,36.0,24.0 x 14.0,Circular Diaphragm Wall Shaft,Launching twin slurry TBMs southward under Keelung River bed toward Songshan
+SH04,Keelung River South Retrieval Shaft SH-04,7.85,CF750,25.0,42.0,20.0 x 15.0,Deep Diaphragm Wall Rectangular Shaft,"Reception of Keelung River shield machines, junction to Y36 stacked station box"
+SH05,Muzhishan Mountain Ventilation Shaft VS-02,13.25,CF763,18.0,58.0,14.0 x 12.0,Drilled Shaft / NATM Cavern Base,"Deep mountain ventilation for CF763 (3.16 km tunnel), smoke exhaust fans, evacuation stairs"
+SH06,Taipei Zoo Launching Working Shaft SH-06,14.55,CF763,30.0,28.0,32.0 x 16.0,Diaphragm Wall Heavy Launch Box,Primary launch base for Muzhishan twin shield TBMs driving northward from Zoo to Y39
+CP01,Horizontal Cross-Passage CP-01,12.025,CF763,6.5,45.0,ID 2.4m Horseshoe,Ground Freezing / NATM Mine Tunnel,Twin-bore emergency egress cross-passage spaced at ~450m; fire doors (NFPA 130 compliant)
+CP02,Horizontal Cross-Passage CP-02,12.475,CF763,6.5,52.0,ID 2.4m Horseshoe,Rock NATM Tunneling with Steel Ribs,"Twin-bore emergency evacuation passage, drainage sump connection"
+CP03,Horizontal Cross-Passage CP-03 (Fault Zone),12.925,CF763,6.5,60.0,ID 2.4m Horseshoe,Pre-grouting / Reinforced Shotcrete NATM,Emergency egress and geological displacement monitoring gallery near Lun-tou Fault
+CP04,Horizontal Cross-Passage CP-04,13.375,CF763,6.5,55.0,ID 2.4m Horseshoe,Rock NATM Tunneling with Rockbolts,Twin-bore passenger escape route adjoining Wanfang ventilation shaft VS-02
+CP05,Horizontal Cross-Passage CP-05,13.825,CF763,6.5,38.0,ID 2.4m Horseshoe,Ground Freezing / Jet Grouting under Fwy 3A,Emergency passenger egress under National Highway 3A Wanfang Interchange
+CP06,Horizontal Cross-Passage CP-06,14.275,CF763,6.5,26.0,ID 2.4m Horseshoe,Slurry Grouting / Cast Segmental Ring,Emergency passenger cross-passage north of Jingmei River crossing

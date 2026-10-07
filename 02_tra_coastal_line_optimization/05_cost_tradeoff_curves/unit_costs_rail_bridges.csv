@@ -1,0 +1,9 @@
+cost_item_id,cost_item_name_zh,cost_item_name_en,unit,baseline_rate_twd_million,notes
+UC01,平面加鋪第二線軌道及路基,Surface Second Track & Subgrade,km,200.0,Ballast; 60kg CWR rail; PC ties; drainage; slope protection
+UC02,鐵路電氣化電車線增設,Electrification Catenary Extension,km,45.0,Overhead catenary; mast poles; feeder wire; return bond
+UC03,一般陸橋及中小型跨溪橋雙軌化,Standard Overpass & Small Creek Bridge,km,650.0,Standard prestressed girder over dry crossings
+UC04,甲級大型河川橋梁雙軌新建(含深基礎),Major Class-A River Bridge Duplication,km,2100.0,Deep caissons (30-45m scour depth); prestressed box girder/steel truss
+UC05,高速道岔及電氣轉轍器,High-Speed Turnout & Point Machine,set,35.0,No. 16/20 turnout; movable crossing; electro-hydraulic point
+UC06,橋梁端點雙向號誌與ATP防護,Bridge Abutment Vital Interlocking & ATP,zone,120.0,Axle counters; vital interlocking logic; ATP dynamic speed advisory
+UC07,既有車站站場及月台擴建,Existing Station Platform & Track Expansion,station,65.0,Platform lengthening; shelters; passenger underpass expansion
+UC08,工程間接費及預備金,Engineering Supervision & Contingency,pct,15.0,15% of direct construction works

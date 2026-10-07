@@ -1,0 +1,6 @@
+section_id,section_name_zh,start_station_id,end_station_id,start_chainage_km,end_chainage_km,length_km,key_geographical_feature,bridges_included,current_status
+SEC01,談文–大山,STA01,STA02,4.5,11.3,5.4,Flat alluvial plain / Zhonggang River,Zhonggang River Bridge (450m),Single-track bottleneck
+SEC02,白沙屯–新埔,STA05,STA06,26.7,29.8,3.1,Coastal bluffs / Shallow historic cuttings,None (Coastal cliffs),Single-track bottleneck
+SEC03,通霄–苑裡,STA07,STA08,35.6,41.7,7.0,Open coastal plains / Farmland,Fangshan Creek Bridge (180m),Single-track bottleneck
+SEC04,日南–大甲,STA09,STA10,49.4,54.1,4.6,Alluvial gravel fan / Daan River,Daan River Bridge (1100m),Single-track bottleneck (Major)
+SEC05,清水–追分,STA12,STA16,65.3,83.1,15.3,Coastal urban corridor / Dajia River,Dajia River Bridge (1250m),Single-track bottleneck (Major)

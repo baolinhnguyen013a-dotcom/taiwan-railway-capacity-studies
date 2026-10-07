@@ -1,0 +1,363 @@
+{
+  "engine_metadata": {
+    "analysis_window": "07:00-09:00",
+    "boundary_rule": "Trains enter at Y29/Y01 and disappear at opposite end; external propagation NOT_MODELED",
+    "bounded_corridor": "Taipei Circular Line East Section (Y29 through Y01)",
+    "corridor_nodes": [
+      "Y29",
+      "Y30",
+      "Y31",
+      "Y32",
+      "Y33",
+      "Y34",
+      "Y35",
+      "Y36",
+      "Y37",
+      "Y38",
+      "Y39",
+      "Y01"
+    ],
+    "engine_name": "Deterministic East-Section Preliminary Capacity Screening Engine",
+    "excluded_scopes": [
+      "whole_ring_fleet_circulation",
+      "depot_throat_and_storage_allocation",
+      "dynamic_passing_siding_loops",
+      "block_level_microsimulation",
+      "life_safety_evacuation_certification",
+      "bankable_lifecycle_economics",
+      "algorithmic_capacity_optimization",
+      "reinforcement_learning"
+    ],
+    "governance_classification": "PRELIMINARY_SCREENING_ONLY",
+    "negative_status_semantics": "FAIL_CAPACITY",
+    "passing_loops_modeling": "NOT_MODELED",
+    "positive_status_semantics": "PRELIMINARY_CAPACITY_PASS_INFRASTRUCTURE_UNVERIFIED",
+    "total_contiguous_intervals": 66,
+    "total_links": 11,
+    "total_nodes": 12
+  },
+  "named_alternatives_evaluation": {
+    "Y30-Y33": {
+      "S00": {
+        "cycle_s": "597.20",
+        "effective_capacity_pphpd": "3918.29",
+        "max_vc": "1.8299",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S01": {
+        "cycle_s": "717.20",
+        "effective_capacity_pphpd": "2936.42",
+        "max_vc": "2.4417",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S02": {
+        "cycle_s": "717.20",
+        "effective_capacity_pphpd": "2936.42",
+        "max_vc": "2.6859",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S03": {
+        "cycle_s": "911.32",
+        "effective_capacity_pphpd": "2310.93",
+        "max_vc": "3.1026",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S04": {
+        "cycle_s": "911.32",
+        "effective_capacity_pphpd": "2054.16",
+        "max_vc": "4.1886",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S05": {
+        "cycle_s": "451.08",
+        "effective_capacity_pphpd": "5187.55",
+        "max_vc": "1.2439",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S06": {
+        "cycle_s": "717.20",
+        "effective_capacity_pphpd": "2283.88",
+        "max_vc": "3.1394",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      }
+    },
+    "Y35-Y36": {
+      "S00": {
+        "cycle_s": "342.60",
+        "effective_capacity_pphpd": "6830.12",
+        "max_vc": "2.2328",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S01": {
+        "cycle_s": "342.60",
+        "effective_capacity_pphpd": "6147.11",
+        "max_vc": "2.4808",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S02": {
+        "cycle_s": "342.60",
+        "effective_capacity_pphpd": "6147.11",
+        "max_vc": "2.7289",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S03": {
+        "cycle_s": "451.26",
+        "effective_capacity_pphpd": "4666.93",
+        "max_vc": "3.2677",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S04": {
+        "cycle_s": "451.26",
+        "effective_capacity_pphpd": "4148.38",
+        "max_vc": "4.4114",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S05": {
+        "cycle_s": "221.94",
+        "effective_capacity_pphpd": "10543.39",
+        "max_vc": "1.3018",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S06": {
+        "cycle_s": "342.60",
+        "effective_capacity_pphpd": "4781.09",
+        "max_vc": "3.1897",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      }
+    },
+    "Y38-Y01": {
+      "S00": {
+        "cycle_s": "666.20",
+        "effective_capacity_pphpd": "3512.46",
+        "max_vc": "3.4079",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S01": {
+        "cycle_s": "726.20",
+        "effective_capacity_pphpd": "2900.03",
+        "max_vc": "4.1275",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S02": {
+        "cycle_s": "726.20",
+        "effective_capacity_pphpd": "2900.03",
+        "max_vc": "4.5403",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S03": {
+        "cycle_s": "897.22",
+        "effective_capacity_pphpd": "2347.25",
+        "max_vc": "5.0996",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S04": {
+        "cycle_s": "897.22",
+        "effective_capacity_pphpd": "2086.44",
+        "max_vc": "6.8844",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S05": {
+        "cycle_s": "513.18",
+        "effective_capacity_pphpd": "4559.80",
+        "max_vc": "2.3626",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S06": {
+        "cycle_s": "726.20",
+        "effective_capacity_pphpd": "2255.58",
+        "max_vc": "5.3068",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      }
+    },
+    "Y39-Y01": {
+      "S00": {
+        "cycle_s": "482.00",
+        "effective_capacity_pphpd": "4854.77",
+        "max_vc": "2.1237",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S01": {
+        "cycle_s": "482.00",
+        "effective_capacity_pphpd": "4369.29",
+        "max_vc": "2.3596",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S02": {
+        "cycle_s": "482.00",
+        "effective_capacity_pphpd": "4369.29",
+        "max_vc": "2.5956",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S03": {
+        "cycle_s": "604.60",
+        "effective_capacity_pphpd": "3483.29",
+        "max_vc": "2.9598",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S04": {
+        "cycle_s": "604.60",
+        "effective_capacity_pphpd": "3096.26",
+        "max_vc": "3.9958",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S05": {
+        "cycle_s": "347.40",
+        "effective_capacity_pphpd": "6735.75",
+        "max_vc": "1.3776",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      },
+      "S06": {
+        "cycle_s": "482.00",
+        "effective_capacity_pphpd": "3398.34",
+        "max_vc": "3.0338",
+        "screening_status": "FAIL_CAPACITY",
+        "vc_band": "FAIL"
+      }
+    }
+  },
+  "operational_baseline_tb02": {
+    "headway_ccw_s": 150.0,
+    "headway_cw_s": 198.0,
+    "nominal_capacity_ccw_pphpd": 15600.0,
+    "nominal_capacity_cw_pphpd": 11818.18,
+    "tph_ccw": 24.0,
+    "tph_cw": 18.1818
+  },
+  "regression_benchmark_s00_y39_y01": {
+    "ccw_demand_pphpd": 10310.0,
+    "change_allowance_s": 36.0,
+    "cycle_s": 482.0,
+    "effective_capacity_pphpd": 4854.77,
+    "recovery_s": 60.0,
+    "regression_match": true,
+    "scenario_id": "S00",
+    "screening_status": "FAIL_CAPACITY",
+    "section_id": "Y39-Y01",
+    "sum_run_time_ccw_s": 193.0,
+    "sum_run_time_cw_s": 193.0,
+    "vc_ccw": 2.1237
+  },
+  "representative_occupations_summary": {
+    "all_occupations_strictly_nonoverlapping": true,
+    "named_sections_covered": [
+      "Y39-Y01",
+      "Y35-Y36",
+      "Y30-Y33",
+      "Y38-Y01"
+    ],
+    "total_trips_simulated": 117
+  },
+  "scenarios_evaluation": {
+    "S00": {
+      "change_s": 18.0,
+      "demand_multiplier": 1.0,
+      "double_track_links_fail": 0,
+      "double_track_links_pass": 22,
+      "dwell_s": 0.0,
+      "recovery_s": 60.0,
+      "runtime_multiplier": 1.0,
+      "single_track_sections_fail": 61,
+      "single_track_sections_pass": 5,
+      "usable_load_factor": 1.0
+    },
+    "S01": {
+      "change_s": 18.0,
+      "demand_multiplier": 1.0,
+      "double_track_links_fail": 1,
+      "double_track_links_pass": 21,
+      "dwell_s": 30.0,
+      "recovery_s": 60.0,
+      "runtime_multiplier": 1.0,
+      "single_track_sections_fail": 62,
+      "single_track_sections_pass": 4,
+      "usable_load_factor": 0.9
+    },
+    "S02": {
+      "change_s": 18.0,
+      "demand_multiplier": 1.1,
+      "double_track_links_fail": 2,
+      "double_track_links_pass": 20,
+      "dwell_s": 30.0,
+      "recovery_s": 60.0,
+      "runtime_multiplier": 1.0,
+      "single_track_sections_fail": 63,
+      "single_track_sections_pass": 3,
+      "usable_load_factor": 0.9
+    },
+    "S03": {
+      "change_s": 30.0,
+      "demand_multiplier": 1.0,
+      "double_track_links_fail": 1,
+      "double_track_links_pass": 21,
+      "dwell_s": 45.0,
+      "recovery_s": 120.0,
+      "runtime_multiplier": 1.1,
+      "single_track_sections_fail": 64,
+      "single_track_sections_pass": 2,
+      "usable_load_factor": 0.9
+    },
+    "S04": {
+      "change_s": 30.0,
+      "demand_multiplier": 1.2,
+      "double_track_links_fail": 5,
+      "double_track_links_pass": 17,
+      "dwell_s": 45.0,
+      "recovery_s": 120.0,
+      "runtime_multiplier": 1.1,
+      "single_track_sections_fail": 65,
+      "single_track_sections_pass": 1,
+      "usable_load_factor": 0.8
+    },
+    "S05": {
+      "change_s": 0.0,
+      "demand_multiplier": 0.9,
+      "double_track_links_fail": 0,
+      "double_track_links_pass": 22,
+      "dwell_s": 0.0,
+      "recovery_s": 0.0,
+      "runtime_multiplier": 0.9,
+      "single_track_sections_fail": 54,
+      "single_track_sections_pass": 12,
+      "usable_load_factor": 1.0
+    },
+    "S06": {
+      "change_s": 18.0,
+      "demand_multiplier": 1.0,
+      "double_track_links_fail": 4,
+      "double_track_links_pass": 18,
+      "dwell_s": 30.0,
+      "recovery_s": 60.0,
+      "runtime_multiplier": 1.0,
+      "single_track_sections_fail": 63,
+      "single_track_sections_pass": 3,
+      "usable_load_factor": 0.7
+    }
+  }
+}

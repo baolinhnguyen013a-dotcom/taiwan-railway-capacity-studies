@@ -1,0 +1,4 @@
+train_type_id,train_type_name_zh,train_class,consist_cars,train_length_m,max_speed_kmh,bridge_operating_speed_kmh,nominal_accel_mps2,nominal_decel_mps2,emergency_decel_mps2,passenger_capacity
+EMU3000,新自強號 (EMU3000),Express,12,244.0,130,115,0.60,0.80,1.20,538
+EMU900,區間快/區間車 (EMU900),Commuter,10,203.0,130,105,0.80,0.90,1.20,1200
+FREIGHT_E,海線散裝/貨櫃貨運列車,Freight,21,350.0,85,75,0.20,0.40,0.80,0

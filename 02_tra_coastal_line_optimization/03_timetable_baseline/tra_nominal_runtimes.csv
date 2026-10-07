@@ -1,0 +1,16 @@
+segment_id,from_station_id,to_station_id,segment_name,distance_km,emu3000_express_runtime_sec,emu900_commuter_runtime_sec,freight_runtime_sec
+SEG_01,STA01,STA02,Tanwen-Dashan,6.8,233.1,379.7,445.1
+SEG_02,STA02,STA03,Dashan-Houlong,3.7,126.9,220.3,242.2
+SEG_03,STA03,STA04,Houlong-Longgang,3.6,123.4,215.1,235.6
+SEG_04,STA04,STA05,Longgang-Baishatun,8.1,277.7,446.6,530.2
+SEG_05,STA05,STA06,Baishatun-Xinpu,3.1,106.3,189.4,202.9
+SEG_06,STA06,STA07,Xinpu-Tongxiao,5.8,198.9,328.3,379.6
+SEG_07,STA07,STA08,Tongxiao-Yuanli,6.1,209.1,343.7,399.3
+SEG_08,STA08,STA09,Yuanli-Rinan,7.7,264.0,426.0,504.0
+SEG_09,STA09,STA10,Rinan-Dajia,4.7,161.1,271.7,307.6
+SEG_10,STA10,STA11,Dajia-Taichung Port,5.2,178.3,297.4,340.4
+SEG_11,STA11,STA12,Taichung Port-Qingshui,6.0,205.7,338.6,392.7
+SEG_12,STA12,STA13,Qingshui-Shalu,3.2,109.7,194.6,209.5
+SEG_13,STA13,STA14,Shalu-Longjing,4.6,157.7,266.6,301.1
+SEG_14,STA14,STA15,Longjing-Dadu,5.0,171.4,287.1,327.3
+SEG_15,STA15,STA16,Dadu-Zhuifen,5.0,171.4,287.1,327.3

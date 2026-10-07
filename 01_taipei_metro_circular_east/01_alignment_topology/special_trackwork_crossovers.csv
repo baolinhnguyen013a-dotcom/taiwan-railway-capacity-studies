@@ -1,0 +1,7 @@
+crossover_id,location_tag,chainage_km,trackwork_type,turnout_geometry,diverging_speed_kmh,signalling_interlocking,functional_role
+XO01,Y29-Tail,0.15,Scissors Crossover,No. 9 (1:9),35,CBTC Interlocking IXL-01,Northern boundary turnback and North Circular connection
+XO02,Y33-Ruiguang,4.15,Scissors Crossover + Siding,No. 9 (1:9),35,CBTC Interlocking IXL-02,"Mid-line short turnback, emergency degraded single-line working crossover"
+XO03,Y35-DepotJct,6.45,Double Junction + Turnouts,No. 12 (1:12),45,CBTC Interlocking IXL-03,"East Depot lead connection, branch in/out for maintenance trains"
+XO04,Y36-SongshanN,7.85,Trailing Crossover,No. 9 (1:9),35,CBTC Interlocking IXL-04,River boundary isolation crossover and short-loop turnback
+XO05,Y38-Xiangshan,10.65,Scissors Crossover,No. 9 (1:9),35,CBTC Interlocking IXL-05,Southern CBD short turnback and boundary before mountain section
+XO06,Y01-ZooTerm,14.65,Scissors Crossover + Tail Tracks,No. 9 (1:9),35,CBTC Interlocking IXL-06,Southern terminal turnback and South Circular (Y01-Y05) through-running

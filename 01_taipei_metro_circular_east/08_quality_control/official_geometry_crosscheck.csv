@@ -1,0 +1,9 @@
+item,collected_or_model_value,official_value,difference,status,source_id
+East Section published route length,14.732 km model chainage,approximately 13.25 km,+1.482 km model versus published scope,UNRESOLVED_DISCREPANCY,DORTS_PROJECT
+Minimum horizontal curve radius,220 m claimed minimum,50 m,+170 m in collected minimum,ROUTE_STANDARD_ONLY_DETAILED_UNKNOWN,DORTS_COMPREHENSIVE_PLAN
+Maximum longitudinal grade,32.5 permille (3.25%) claimed maximum,5.38% (53.8 permille),-21.3 permille in collected maximum,ROUTE_STANDARD_ONLY_DETAILED_UNKNOWN,DORTS_COMPREHENSIVE_PLAN
+Station platform configuration,Y31/Y36 stacked; Y39 island,Nine island stations; Y39 is the single stacked station,Three conflicting station classifications,RESOLVED_OFFICIAL_ADOPTED,DORTS_COMPREHENSIVE_PLAN
+CF763 up-line tunnel length,3.157 km candidate length,3.132 km,+0.025 km,CONDITIONAL,DORTS_CF763
+CF763 down-line tunnel length,3.157 km candidate length,3.148 km,+0.009 km,CONDITIONAL,DORTS_CF763
+CF763 horizontal connecting passages,6,6 including ventilation-shaft connection,0 count,COUNT_RECONCILED,DORTS_CF763
+CF763 construction start,Previously described as designed/not implemented,2024-12-24,Scope wording corrected,RECONCILED,DORTS_CF763

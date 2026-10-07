@@ -1,0 +1,20 @@
+parameter_id,parameter_name,parameter_value,unit,classification,source_or_citation,governance_notes
+CORRIDOR_NODES,East Section Corridor Stations,"Y29,Y30,Y31,Y32,Y33,Y34,Y35,Y36,Y37,Y38,Y39,Y01",node_list,OFFICIAL_BENCHMARK,DORTS Comprehensive Plan Chapter 8,12 East-section corridor stations
+CORRIDOR_BOUNDARIES,Corridor Boundary Ingress/Egress,"Y29,Y01",boundary_nodes,OFFICIAL_BENCHMARK,Boundary definition,Boundary trains enter at Y29/Y01 and disappear at opposite end
+TIME_WINDOW,Analysis Operational Window,07:00-09:00,time_range,OFFICIAL_BENCHMARK,DORTS Comprehensive Plan Table 8.2-2,Morning Peak (AM Peak) TB02 service window
+HEADWAY_CCW_S,Baseline Headway CCW,150,seconds,OFFICIAL_BENCHMARK,official_operational_service_baseline.csv (TB02),CCW AM peak headway yielding 24.0 tph
+HEADWAY_CW_S,Baseline Headway CW,198,seconds,OFFICIAL_BENCHMARK,official_operational_service_baseline.csv (TB02),CW AM peak headway yielding 18.1818... tph
+NOMINAL_TRAIN_CAPACITY_PAX,Train Nominal Capacity,650,passengers/train,OFFICIAL_BENCHMARK,DORTS Comprehensive Plan Section 8.2.1,Medium-capacity 4-car EMU nominal crush capacity
+DIRECTION_CORRECTION_RULE,Link Directional Mapping,STORED_CW_REVERSE_CCW,rule,ANALYSIS_SPECIFICATION,official_link_loads.csv schema,Stored links run CW from_station->to_station; CCW movements run to_station->from_station (e.g. LK07 CCW is Y36->Y35 at 15250 pphpd)
+EXTERNAL_PROPAGATION,External Network Propagation,NOT_MODELED,status,SCREENING_BOUNDARY,Boundary definition,Trains enter at Y29/Y01 and disappear at other end
+PASSING_LOOPS,Intermediate Passing Siding Loops,NOT_MODELED,status,SCREENING_BOUNDARY,Screening criteria,Contiguous single-track intervals evaluated without dynamic passing loops
+WHOLE_RING_INTERACTION,Whole-Ring Circulation Model,NOT_MODELED,status,SCREENING_BOUNDARY,Readiness boundary,Full 49.31 km whole-ring train continuity excluded
+FLEET_DEPOT_ALLOCATION,Depot Throat and Fleet Sizing,NOT_MODELED,status,SCREENING_BOUNDARY,Readiness boundary,Depot circulation and fleet allocation excluded
+MICROSIMULATION,Block Signalling Microsimulation,NOT_MODELED,status,SCREENING_BOUNDARY,Readiness boundary,Deterministic macroscopic capacity screening only
+SAFETY_CERTIFICATION,Life Safety / Egress Certification,NOT_MODELED,status,SCREENING_BOUNDARY,Readiness boundary,NFPA 130 and safety verification uncertified
+ECONOMICS_AND_OPTIMIZATION,Cost Optimization / RL Sizing,NOT_MODELED,status,SCREENING_BOUNDARY,Readiness boundary,CAPEX/OPEX optimization and RL excluded
+RUNTIME_SYMMETRY,Bidirectional Runtime Equality,PROXY_SCREENING_ASSUMPTION,assumption,PROXY_SCREENING_ASSUMPTION,Symmetric runtime between directions is a screening proxy assumption
+VC_THRESHOLD_COMFORTABLE,Comfortable Capacity Threshold,0.85,ratio,SCREENING_CRITERIA,Screening criteria standard,V/C <= 0.85 is rated COMFORTABLE
+VC_THRESHOLD_TIGHT,Tight Capacity Threshold,1.00,ratio,SCREENING_CRITERIA,Screening criteria standard,0.85 < V/C <= 1.00 is rated TIGHT
+POSITIVE_STATUS_LABEL,Positive Screening Status,PRELIMINARY_CAPACITY_PASS_INFRASTRUCTURE_UNVERIFIED,label,GOVERNANCE_RULE,Screening governance,Passing capacity does not certify underlying infrastructure feasibility
+NEGATIVE_STATUS_LABEL,Capacity Failure Status,FAIL_CAPACITY,label,GOVERNANCE_RULE,Screening governance,Demand exceeding capacity results in FAIL_CAPACITY

@@ -1,0 +1,13 @@
+station_code,station_name_zh,entry_clockwise_pax,exit_clockwise_pax,entry_counterclockwise_pax,exit_counterclockwise_pax,transfer_entry_cw_pax,transfer_exit_cw_pax,transfer_entry_ccw_pax,transfer_exit_ccw_pax,total_boardings_pax,total_alightings_pax,source_citation
+Y29,劍南路,540,1070,260,250,1630,4390,2530,790,4960,6500,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y30,下塔悠 (樂群),320,640,300,350,0,0,0,0,620,990,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y31,洲子二號公園,380,1620,60,1710,0,0,0,0,440,3330,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y32,大港墘公園,540,1230,180,3280,0,0,0,0,720,4510,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y33,瑞光公園,1360,680,280,2430,0,0,0,0,1640,3110,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y34,內湖行政中心,160,270,20,1440,0,0,0,0,180,1710,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y35,新湖一路,970,670,320,3660,1740,410,860,2030,3890,6770,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y36,松山,3090,1190,2960,2990,290,670,2950,870,9290,5720,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y37,永春,870,1770,3300,880,700,840,1090,2520,5960,6010,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y38,象山,90,1510,950,890,340,990,1500,1320,2880,4710,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y39,吳興街,570,40,1850,190,0,0,0,0,2420,230,DORTS Comprehensive Plan Table 6.2-8 p. 6-18
+Y01,動物園,10,170,20,260,580,1100,2060,780,2670,2310,DORTS Comprehensive Plan Table 6.2-8 p. 6-18

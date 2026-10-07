@@ -1,0 +1,26 @@
+parameter_category,parameter_name,value,unit,engineering_condition,provenance_source
+Train Consist Architecture,Vehicle Formation,DM1 + M1 + M2 + DM2,Consist,"4-car fixed formation, all axles motorized",Hitachi Rail Italy Circular Line Contract CF610
+Dimensions,Total Train Length over Couplers,68.40,m,4 cars @ 17.1m per car,DORTS System Technical Specification
+Dimensions,Carbody Width,2.65,m,Medium-capacity standard carbody,DORTS System Technical Specification
+Dimensions,Carbody Height above Rail Top,3.60,m,Excluding roof HVAC fairing,Hitachi Rail Circular Line Specifications
+Dimensions,Standard Track Gauge,1435,mm,Standard gauge steel wheel on steel rail,DORTS MRT Design Standards
+Dimensions,Wheel Diameter (New / Worn),840 / 770,mm,Monobloc steel wheel,TRTC Maintenance Operations Norms
+Mass and Loading,Empty Weight (AW0 Tare Mass),122500,kg,Complete empty 4-car consist,Hitachi Rolling Stock Certificate
+Mass and Loading,Seated Load Mass (AW1),129360,kg,98 seated passengers @ 70 kg,Calculated standard loading
+Mass and Loading,Nominal Capacity Load (AW2),152400,kg,4 pax/m2 standing load (426 pax),DORTS Operational Service Standard
+Mass and Loading,Full Design Service Mass (AW3),164800,kg,6 pax/m2 standing load (650 pax total),Baseline Contract Design Capacity
+Mass and Loading,Crush Loading Limit (AW4),178200,kg,8 pax/m2 extreme structural load (840 pax),Structural Overload Design Limit
+Passenger Capacity,Total Seating Capacity,98,seats,Longitudinal cantilevered FRP seats,Interior Layout Specification
+Passenger Capacity,Nominal Design Capacity (AW3),650,passengers,98 seated + 552 standing,DORTS Comprehensive Planning Report
+Operating Speeds,Maximum Design Speed,90.0,km/h,Vehicle structural and motor stability limit,Hitachi Technical Manual
+Operating Speeds,Maximum Operating Speed,80.0,km/h,ATO governed maximum operating curve,TRTC Operating Regulations
+Operating Speeds,Average Commercial Speed,33.5,km/h,Including station dwell and curve limits,Simulated Baseline Operating Profile
+Traction Performance,Starting Acceleration (0-35 km/h),1.00,m/s2,Full AW3 loading on flat tangent track,Hitachi Traction Curve Specification
+Traction Performance,Acceleration at 80 km/h,0.42,m/s2,Full AW3 loading on flat tangent track,Hitachi Traction Curve Specification
+Braking Performance,Full Service Deceleration Rate,1.00,m/s2,Regenerative blended with electropneumatic,DORTS Signal Braking Model
+Braking Performance,Emergency Deceleration Rate,1.30,m/s2,Pure friction + track brake backup,Safety Certification Baseline
+Passenger Comfort,Maximum Jerk Limit,0.75,m/s3,Rate of acceleration / deceleration change,DORTS MRT Ergonomics Criteria
+Power System,Traction Power Supply,750,V DC,Bottom-contact rigid steel-aluminum conductor rail,DORTS Power Supply Design Code
+Power System,Traction Motor Type & Rating,16 x 150,kW,3-phase AC VVVF induction / PMSM motors,Hitachi Traction System Package
+Doors and Access,Passenger Doors per Train Side,12,doors/side,3 bi-parting sliding doors per car side,Carbody Egress Specification
+Doors and Access,Door Clear Opening Dimensions,1.40 x 1.90,m,Clear width x height per doorway,NFPA 130 Station Egress Calibration

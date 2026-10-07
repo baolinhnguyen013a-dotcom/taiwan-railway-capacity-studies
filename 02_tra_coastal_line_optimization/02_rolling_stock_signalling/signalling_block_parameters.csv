@@ -1,0 +1,9 @@
+parameter_id,parameter_name,value,unit,description
+PAR01,atp_overlap_length,150.0,meters,ATP safety overlap distance beyond stop signal
+PAR02,block_length_nominal,1200.0,meters,Nominal automatic block signaling (ABS) length
+PAR03,turnout_number,16.0,dimensionless,High-speed turnout number at bridge approaches (No. 16 or No. 20)
+PAR04,turnout_diverging_speed,85.0,km/h,Maximum diverging speed through approach turnout
+PAR05,switch_throw_and_lock_time,8.0,seconds,Electro-hydraulic point machine throw and vital route lock
+PAR06,interlocking_route_release_time,10.0,seconds,Vital route release confirmation delay after rear axle clearance
+PAR07,signal_sight_reaction_buffer,15.0,seconds,Driver sight and automated ATO/ATP speed advisory reaction buffer
+PAR08,bridge_approach_double_track_min_length,1800.0,meters,Minimum double-track approach length prior to single-track bridge abutment

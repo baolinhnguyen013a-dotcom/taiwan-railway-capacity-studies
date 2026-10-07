@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<railML xmlns="https://www.railml.org/schemas/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2">
+  <metadata>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Taipei Metro Circular Line East Section Operational Infrastructure Model</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DORTS Planning Model / Counterfactual Optimization Project</dc:creator>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2026-10-06</dc:date>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">railML 3.2</dc:format>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Operational topology, virtual CBTC block sections, and candidate single-track boundaries for Taipei Circular Line East Section.</dc:description>
+  </metadata>
+  <infrastructure id="inf_tpe_east_01">
+    <topology>
+      <netElements>
+        <netElement id="ne_trk_up_01" length="14732"/>
+        <netElement id="ne_trk_dn_01" length="14732"/>
+        <netElement id="ne_trk_s1_single" length="3157"/>
+      </netElements>
+      <netRelations>
+        <netRelation id="nr_xo_y33" elementA="ne_trk_up_01" elementB="ne_trk_dn_01" positionOnA="4150" positionOnB="4150"/>
+        <netRelation id="nr_xo_y38" elementA="ne_trk_up_01" elementB="ne_trk_dn_01" positionOnA="10650" positionOnB="10650"/>
+      </netRelations>
+    </topology>
+    <functionalInfrastructure>
+      <tracks>
+        <track id="trk_up_main" name="Circular Line East Upbound Track" type="mainTrack">
+          <trackTopology>
+            <trackBegin pos="0" absPos="0"/>
+            <trackEnd pos="14732" absPos="14732"/>
+          </trackTopology>
+          <designator register="_DORTS" entry="CLE_UP_01"/>
+        </track>
+        <track id="trk_dn_main" name="Circular Line East Downbound Track" type="mainTrack">
+          <trackTopology>
+            <trackBegin pos="0" absPos="0"/>
+            <trackEnd pos="14732" absPos="14732"/>
+          </trackTopology>
+          <designator register="_DORTS" entry="CLE_DN_01"/>
+        </track>
+      </tracks>
+      <operationalPoints>
+        <operationalPoint id="op_y29" name="Jiannan Road" code="Y29" pos="0"/>
+        <operationalPoint id="op_y30" name="Lequn / Xiatayou" code="Y30" pos="1320"/>
+        <operationalPoint id="op_y31" name="Zhouzi Park" code="Y31" pos="2340"/>
+        <operationalPoint id="op_y32" name="Dagangqian Park" code="Y32" pos="3120"/>
+        <operationalPoint id="op_y33" name="Ruiguang Park" code="Y33" pos="4050"/>
+        <operationalPoint id="op_y34" name="Neihu Admin Center" code="Y34" pos="5150"/>
+        <operationalPoint id="op_y35" name="Xinhu 1st Road" code="Y35" pos="6350"/>
+        <operationalPoint id="op_y36" name="Songshan" code="Y36" pos="8035"/>
+        <operationalPoint id="op_y37" name="Yongchun" code="Y37" pos="8785"/>
+        <operationalPoint id="op_y38" name="Xiangshan" code="Y38" pos="10575"/>
+        <operationalPoint id="op_y39" name="Wuxing Street" code="Y39" pos="11575"/>
+        <operationalPoint id="op_y01" name="Taipei Zoo" code="Y01" pos="14732"/>
+      </operationalPoints>
+    </functionalInfrastructure>
+  </infrastructure>
+</railML>

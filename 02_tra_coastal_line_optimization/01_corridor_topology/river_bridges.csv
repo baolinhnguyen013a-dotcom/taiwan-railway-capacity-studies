@@ -1,0 +1,5 @@
+bridge_id,bridge_name_zh,bridge_name_en,start_chainage_km,end_chainage_km,length_m,surrounding_stations,river_class,bridge_type,scour_risk,lever1_bottleneck_candidate
+BRG01,中港溪橋,Zhonggang River Bridge,7.200,7.650,450,STA01-STA02,Class-A River,Prestressed Concrete Girder,Moderate,Candidate (Low savings)
+BRG02,後龍溪橋,Houlong River Bridge,15.800,16.500,700,STA03-STA04,Class-A River,Steel Truss / Concrete,Moderate,Existing double-track adjacent
+BRG03,大安溪橋,Daan River Bridge,51.200,52.300,1100,STA09-STA10,Class-A River,Steel Plate Girder & Concrete,High (Typhoon scour),PRIMARY LEVER 1 CANDIDATE
+BRG04,大甲溪橋,Dajia River Bridge,61.800,63.050,1250,STA11-STA12,Class-A River,Continuous Prestressed Box Girder,Very High (Alluvial fan),PRIMARY LEVER 1 CANDIDATE

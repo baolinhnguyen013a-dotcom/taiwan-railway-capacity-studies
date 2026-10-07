@@ -1,0 +1,6 @@
+parameter_id,ventilation_safety_parameter,value,unit,engineering_rationale_and_design_norm
+VENT-01,Design Fire Heat Release Rate (HRR),20.0,MW,"NFPA 130 worst-case EMU train car fire (heavy plastics, wiring, luggage)"
+VENT-02,Critical Air Velocity to Prevent Smoke Backlayering (Vc),2.24,m/s,"Calculated via Kennedy formulation (tunnel grade 1.5%, cross-section 29.2 m2)"
+VENT-03,Tunnel Ventilation Fan (TVF) Airflow Rate per Shaft,180.0,m3/s,"Reversible axial fans, rated to withstand 250 deg C for 120 minutes"
+VENT-04,Twin-Bore Baseline Smoke Control Strategy,Push-Pull Longitudinal + Cross-Bore Evacuation,Strategy,Incident bore ventilated to push smoke away from detrained passengers; adjacent companion bore pressurized at +50 Pa to remain smoke-free safe haven
+VENT-05,Single-Bore Candidate (S1) Smoke Control Limitation,Strict Single-Direction Longitudinal Push Only,Strategy,Passengers can ONLY evacuate opposite to airflow direction; detraining from rear doors impossible if smoke fills behind train; creates severe operational safety constraint

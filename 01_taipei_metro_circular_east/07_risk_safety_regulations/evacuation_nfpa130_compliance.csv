@@ -1,0 +1,9 @@
+facility_id,facility_name,zone_type,platform_clearing_time_min,time_to_point_of_safety_min,nfpa_130_compliance_status,evacuation_infrastructure_and_limitations
+Y29,Jiannan Road Station Box,Station Concourse & Platform,3.2,4.8,"Complies (Platform < 4 min, Safety < 6 min)","4 stairways + 2 escalators per platform, 1.4m egress width per unit"
+Y30,Lequn Station Box,Station Platform,2.8,4.2,Complies,Standard 2-level egress stair distribution
+Y31,Zhouzi Park Stacked Box,Station Platform Level 1 & 2,3.8,5.7,Complies (Borderline due to stacked stair rise),Split egress routing for upper and lower tracks; pressurized stair enclosures
+Y32,Dagangqian Park Station Box,Station Platform,2.9,4.5,Complies,"Generous platform width (10.5m), direct dual stairwells to concourse"
+Y36,Songshan Deep 4-Level Station Box,Deep Station (-34.5m),3.9,5.9,Complies (Stringent deep egress design),"Massive smoke exhaust louvers, 4 emergency pressurized escape towers"
+TUN-BASE,Standard Twin-Bore Tunnel (Baseline),Running Tunnel Section,0.0,3.5,Complies (Cross-passages spaced <= 500m),"Passengers step onto 750mm walkway, enter cross-passage into safe companion bore"
+TUN-S1-A,Candidate S1 Single-Bore Tunnel (Without Service Gallery),Single-Bore Mountain Tunnel,0.0,18.5,NON-COMPLIANT WITH NFPA 130,"Critical Safety Flaw: In a 3.16km single bore, no companion tunnel exists! Walkway egress over 1,580m takes >18 minutes, violating maximum egress limits!"
+TUN-S1-B,Candidate S1 Single-Bore Tunnel (With Parallel 3.0m Egress Adit),Single-Bore + Escape Adit,0.0,4.2,Complies (Requires NT$ 1.85B escape adit),"Building a 3.0m diameter parallel escape adit restores NFPA 130 compliance, but reduces civil CAPEX savings by 32%!"

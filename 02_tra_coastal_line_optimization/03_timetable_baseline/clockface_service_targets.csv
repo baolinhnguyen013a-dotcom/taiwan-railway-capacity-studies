@@ -1,0 +1,4 @@
+service_id,service_name_zh,train_type_id,headway_target_minutes,trains_per_hour_per_direction,trains_per_day_both_directions,stopping_pattern,operational_priority
+SRV01,海線對號特快 (新自強號),EMU3000,30.0,2,64,Stops only at Zhunan; Houlong; Yuanli; Dajia; Qingshui; Shalu; Changhua,Priority 1 (Highest)
+SRV02,海線區間通勤 (區間車/區間快),EMU900,15.0,4,128,All-stations stopper (16 stations between Tanwen and Zhuifen),Priority 2 (Standard Commuter)
+SRV03,台中港/西部散裝貨運列車,FREIGHT_E,60.0,1,32,Through-freight path / conditional siding wait,Priority 3 (Flexible Freight Slot)

@@ -1,0 +1,8 @@
+time_band_id,period_name,start_time,end_time,duration_hr,pattern_headway,core_trains_per_hour,trains_in_service,dispatching_concept
+S1-TB01,Early Morning,06:00,07:00,1.0,Y29-Y01: 360s (6 min),10,10,Single-track clear run; alternating bidirectional cycle 210s < 360s headway
+S1-TB02,Morning Peak (Short-Turn Layered),07:00,09:00,2.0,Y29-Y38: 180s (3 min) / Y38-Y01: 360s (6 min),20,16,Short-turn strategy: 10 tph turn back at Y38 Xiangshan crossover; 10 tph proceed across S1 single-track tunnel to Y01 Zoo. Matches low mountain corridor demand while preserving full 3-min headway across Neihu-CBD!
+S1-TB03,Midday Interpeak,09:00,12:00,3.0,Y29-Y01: 360s (6 min),10,10,Uniform full-line through-running at 6 min headway; fits single-track cycle constraint
+S1-TB04,Afternoon Interpeak,12:00,17:00,5.0,Y29-Y01: 360s (6 min),10,10,Uniform through service; stable single-track window with 150s buffer time
+S1-TB05,Evening Peak (Short-Turn Layered),17:00,19:30,2.5,Y29-Y38: 200s (3.33 min) / Y38-Y01: 400s (6.67 min),18,15,Layered dispatching: alternate trains terminate at Xiangshan (Y38); southern single track runs at 6.67 min headway
+S1-TB06,Evening Shoulder,19:30,22:00,2.5,Y29-Y01: 400s (6.67 min),9,9,Uniform through-running
+S1-TB07,Late Night,22:00,24:00,2.0,Y29-Y01: 600s (10 min),6,6,Low frequency through-running

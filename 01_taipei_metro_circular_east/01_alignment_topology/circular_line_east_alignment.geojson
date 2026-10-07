@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "name": "taipei_circular_line_east_section_topology",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5552,
+          25.0847
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST01",
+        "station_code": "Y29",
+        "name_zh": "劍南路",
+        "name_en": "Jiannan Road",
+        "chainage_km": 0.0,
+        "platform_type": "Island Platform",
+        "depth_m": -16.5,
+        "easting_twd97": 306000.0,
+        "northing_twd97": 2775200.0,
+        "contract": "CF710-NorthJct",
+        "transfers": "Wenhu Line (BR15), North Circular (Y29)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5645,
+          25.0805
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST02",
+        "station_code": "Y30",
+        "name_zh": "下塔悠",
+        "name_en": "Xiatayou / Lequn",
+        "chainage_km": 1.32,
+        "platform_type": "Island Platform",
+        "depth_m": -28.1,
+        "easting_twd97": 306940.0,
+        "northing_twd97": 2774730.0,
+        "contract": "CF710",
+        "transfers": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5728,
+          25.0782
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST03",
+        "station_code": "Y31",
+        "name_zh": "洲子二號公園",
+        "name_en": "Zhouzi Park",
+        "chainage_km": 2.34,
+        "platform_type": "Stacked Side Platform",
+        "depth_m": -26.5,
+        "easting_twd97": 307780.0,
+        "northing_twd97": 2774480.0,
+        "contract": "CF710",
+        "transfers": "Neihu Tech Park Feeder Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5775,
+          25.074
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST04",
+        "station_code": "Y32",
+        "name_zh": "大港墘公園",
+        "name_en": "Dagangqian Park",
+        "chainage_km": 3.12,
+        "platform_type": "Island Platform",
+        "depth_m": -24.2,
+        "easting_twd97": 308250.0,
+        "northing_twd97": 2774010.0,
+        "contract": "CF710",
+        "transfers": "Wenhu Line Gangqian Station (Out-of-station ~400m)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5815,
+          25.0682
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST05",
+        "station_code": "Y33",
+        "name_zh": "瑞光公園",
+        "name_en": "Ruiguang Park",
+        "chainage_km": 4.05,
+        "platform_type": "Island Platform + Crossover",
+        "depth_m": -22.5,
+        "easting_twd97": 308650.0,
+        "northing_twd97": 2773370.0,
+        "contract": "CF720",
+        "transfers": "None (Mid-corridor Pocket Siding)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5878,
+          25.0635
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST06",
+        "station_code": "Y34",
+        "name_zh": "內湖行政中心",
+        "name_en": "Neihu Admin Center",
+        "chainage_km": 5.15,
+        "platform_type": "Island Platform",
+        "depth_m": -29.8,
+        "easting_twd97": 309290.0,
+        "northing_twd97": 2772850.0,
+        "contract": "CF720",
+        "transfers": "Neihu Admin Center Bus Terminal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5792,
+          25.056
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST07",
+        "station_code": "Y35",
+        "name_zh": "新湖一路",
+        "name_en": "Xinhu 1st Road / Jiuzong",
+        "chainage_km": 6.35,
+        "platform_type": "Island Platform + Depot Leads",
+        "depth_m": -23.6,
+        "easting_twd97": 308420.0,
+        "northing_twd97": 2772020.0,
+        "contract": "CF730/CF740",
+        "transfers": "Minsheng-Xizhi Line (SB07 Planned), East Depot Leads"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778,
+          25.0498
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST08",
+        "station_code": "Y36",
+        "name_zh": "松山",
+        "name_en": "Songshan",
+        "chainage_km": 8.035,
+        "platform_type": "Stacked Island Platform",
+        "depth_m": -34.5,
+        "easting_twd97": 308280.0,
+        "northing_twd97": 2771330.0,
+        "contract": "CF750",
+        "transfers": "TRA Western Line, Songshan-Xindian Line (G19)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576,
+          25.041
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST09",
+        "station_code": "Y37",
+        "name_zh": "永春",
+        "name_en": "Yongchun",
+        "chainage_km": 8.785,
+        "platform_type": "Island Platform",
+        "depth_m": -24.8,
+        "easting_twd97": 308100.0,
+        "northing_twd97": 2770360.0,
+        "contract": "CF750",
+        "transfers": "Bannan Line (BL19)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5695,
+          25.0328
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST10",
+        "station_code": "Y38",
+        "name_zh": "象山",
+        "name_en": "Xiangshan",
+        "chainage_km": 10.575,
+        "platform_type": "Island Platform + Crossover",
+        "depth_m": -28.4,
+        "easting_twd97": 307440.0,
+        "northing_twd97": 2769450.0,
+        "contract": "CF760",
+        "transfers": "Tamsui-Xinyi Line (R02)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5662,
+          25.0255
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST11",
+        "station_code": "Y39",
+        "name_zh": "吳興街",
+        "name_en": "Wuxing Street",
+        "chainage_km": 11.575,
+        "platform_type": "Island Platform",
+        "depth_m": -22.4,
+        "easting_twd97": 307110.0,
+        "northing_twd97": 2768640.0,
+        "contract": "CF760",
+        "transfers": "Taipei Medical University Feeder Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5795,
+          25.0003
+        ]
+      },
+      "properties": {
+        "feature_type": "station",
+        "station_id": "ST12",
+        "station_code": "Y01",
+        "name_zh": "動物園",
+        "name_en": "Taipei Zoo",
+        "chainage_km": 14.732,
+        "platform_type": "Island Platform + Crossover",
+        "depth_m": -25.2,
+        "easting_twd97": 308450.0,
+        "northing_twd97": 2765850.0,
+        "contract": "CF763",
+        "transfers": "Wenhu Line (BR01), South Circular (Y01), Maokong Gondola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5552,
+            25.0847
+          ],
+          [
+            121.5645,
+            25.0805
+          ],
+          [
+            121.5728,
+            25.0782
+          ],
+          [
+            121.5775,
+            25.074
+          ],
+          [
+            121.5815,
+            25.0682
+          ],
+          [
+            121.5878,
+            25.0635
+          ],
+          [
+            121.5792,
+            25.056
+          ],
+          [
+            121.5778,
+            25.0498
+          ],
+          [
+            121.576,
+            25.041
+          ],
+          [
+            121.5695,
+            25.0328
+          ],
+          [
+            121.5662,
+            25.0255
+          ],
+          [
+            121.5795,
+            25.0003
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "baseline_alignment_centerline",
+        "name": "Circular Line East Section Baseline Centerline",
+        "total_length_km": 14.732,
+        "crs_primary": "EPSG:3826 (TWD97)",
+        "track_type": "Twin-Bore Double Track (Baseline)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5662,
+            25.0255
+          ],
+          [
+            121.5795,
+            25.0003
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "candidate_single_track_section",
+        "section_id": "S1",
+        "name": "Muzhishan Mountain Tunnel Counterfactual Single Track (Y39-Y01)",
+        "length_m": 3157,
+        "contract": "CF763",
+        "geology": "Muzhishan Formation & Lun-tou Fault"
+      }
+    }
+  ]
+}

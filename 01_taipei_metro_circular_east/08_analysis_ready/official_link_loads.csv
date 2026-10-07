@@ -1,0 +1,12 @@
+link_id,from_station,to_station,link_length_m,running_speed_kmh,run_time_s,flow_clockwise_to_zoo_pphpd,flow_counterclockwise_to_jiannan_pphpd,critical_direction,critical_demand_pphpd,baseline_capacity_ccw_pphpd,baseline_capacity_cw_pphpd,vc_ratio_baseline_critical,single_track_alternating_capacity_pphpd,vc_ratio_single_alternating,source_citation
+LK01,Y29,Y30,930,37.60,89.0,5700,2370,Clockwise (往動物園),5700,15600,11700,0.487,11700,0.487,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK02,Y30,Y31,985,38.79,91.9,5380,2420,Clockwise (往動物園),5380,15600,11700,0.460,8660,0.621,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK03,Y31,Y32,535,27.06,71.8,4130,4070,Clockwise (往動物園),4130,15600,11700,0.353,8660,0.477,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK04,Y32,Y33,875,36.43,86.9,3440,7170,Counterclockwise (往劍南路),7170,15600,11700,0.460,8660,0.828,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK05,Y33,Y34,1025,39.58,93.7,4120,9330,Counterclockwise (往劍南路),9330,15600,11700,0.598,15600,0.598,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK06,Y34,Y35,905,37.10,88.3,4010,10740,Counterclockwise (往劍南路),10740,15600,11700,0.688,15600,0.688,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK07,Y35,Y36,1685,49.35,123.3,5640,15250,Counterclockwise (往劍南路),15250,15600,11700,0.978,6500,2.346,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK08,Y36,Y37,825,35.26,84.7,7160,13200,Counterclockwise (往劍南路),13200,15600,11700,0.846,15600,0.846,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK09,Y37,Y38,1790,50.48,127.7,6120,12210,Counterclockwise (往劍南路),12210,15600,11700,0.783,15600,0.783,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK10,Y38,Y39,1000,39.09,92.1,4060,11970,Counterclockwise (往劍南路),11970,15600,11700,0.767,15600,0.767,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73
+LK11,Y39,Y01,3240,60.46,193.0,4590,10310,Counterclockwise (往劍南路),10310,15600,11700,0.661,4333,2.380,DORTS Comprehensive Plan Table 6.2-9 p. 6-19; Table 7.3-8 p. 7-73; Figure 8.3-1 p. 8-19

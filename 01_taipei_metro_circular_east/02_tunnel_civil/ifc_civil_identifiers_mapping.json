@@ -1,0 +1,189 @@
+{
+  "IfcProject": {
+    "GlobalId": "2M0a1b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
+    "Name": "Taipei_Metro_Circular_Line_East_Section",
+    "Description": "Civil infrastructure breakdown for Taipei Metro Circular Line East Section counterfactual study",
+    "SchemaVersion": "IFC4X3_ADD2",
+    "Units": {
+      "Length": "METRE",
+      "Angle": "RADIAN",
+      "Force": "NEWTON",
+      "Time": "SECOND"
+    }
+  },
+  "IfcSite": {
+    "GlobalId": "3A1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "Name": "Taipei_Metropolitan_Area_East_Corridor",
+    "RefLatitude": [
+      25,
+      4,
+      30,
+      0
+    ],
+    "RefLongitude": [
+      121,
+      34,
+      30,
+      0
+    ],
+    "RefElevation": 0.0
+  },
+  "IfcRailway": {
+    "GlobalId": "4B2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "Name": "Taipei_Circular_Line_East_Segment",
+    "Children": [
+      {
+        "IfcTunnel": {
+          "GlobalId": "5C3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+          "Name": "East_Section_Shield_Tunnels",
+          "BoreIdentifier": "BORE_TWIN_01_TO_04",
+          "Segments": [
+            {
+              "Id": "TUN_CF710_01",
+              "StartChainage": "K0+250",
+              "EndChainage": "K1+320",
+              "Type": "IfcTunnelSegment",
+              "Profile": "B01_TWIN_6.1M"
+            },
+            {
+              "Id": "TUN_CF710_02",
+              "StartChainage": "K1+450",
+              "EndChainage": "K2+340",
+              "Type": "IfcTunnelSegment",
+              "Profile": "B01_TWIN_6.1M"
+            },
+            {
+              "Id": "TUN_CF720_01",
+              "StartChainage": "K3+250",
+              "EndChainage": "K4+050",
+              "Type": "IfcTunnelSegment",
+              "Profile": "B01_TWIN_6.1M"
+            },
+            {
+              "Id": "TUN_CF730_01",
+              "StartChainage": "K6+500",
+              "EndChainage": "K7+950",
+              "Type": "IfcTunnelSegment",
+              "Profile": "B01_TWIN_6.1M_RIVER"
+            },
+            {
+              "Id": "TUN_CF763_S1",
+              "StartChainage": "K11+575",
+              "EndChainage": "K14+732",
+              "Type": "IfcTunnelSegment",
+              "Profile": "B03_SINGLE_6.1M_CANDIDATE"
+            }
+          ],
+          "CrossPassages": [
+            {
+              "Id": "IFC_CP01",
+              "Chainage": "K12+025",
+              "Type": "IfcCrossPassage"
+            },
+            {
+              "Id": "IFC_CP02",
+              "Chainage": "K12+475",
+              "Type": "IfcCrossPassage"
+            },
+            {
+              "Id": "IFC_CP03",
+              "Chainage": "K12+925",
+              "Type": "IfcCrossPassage"
+            },
+            {
+              "Id": "IFC_CP04",
+              "Chainage": "K13+375",
+              "Type": "IfcCrossPassage"
+            },
+            {
+              "Id": "IFC_CP05",
+              "Chainage": "K13+825",
+              "Type": "IfcCrossPassage"
+            },
+            {
+              "Id": "IFC_CP06",
+              "Chainage": "K14+275",
+              "Type": "IfcCrossPassage"
+            }
+          ]
+        }
+      },
+      {
+        "IfcStations": [
+          {
+            "Id": "STA_Y29",
+            "Name": "Jiannan Road",
+            "IfcType": "IfcStation",
+            "Chainage": 0.0
+          },
+          {
+            "Id": "STA_Y30",
+            "Name": "Lequn",
+            "IfcType": "IfcStation",
+            "Chainage": 1.32
+          },
+          {
+            "Id": "STA_Y31",
+            "Name": "Zhouzi Park",
+            "IfcType": "IfcStation",
+            "Chainage": 2.34
+          },
+          {
+            "Id": "STA_Y32",
+            "Name": "Dagangqian Park",
+            "IfcType": "IfcStation",
+            "Chainage": 3.12
+          },
+          {
+            "Id": "STA_Y33",
+            "Name": "Ruiguang Park",
+            "IfcType": "IfcStation",
+            "Chainage": 4.05
+          },
+          {
+            "Id": "STA_Y34",
+            "Name": "Neihu Admin Center",
+            "IfcType": "IfcStation",
+            "Chainage": 5.15
+          },
+          {
+            "Id": "STA_Y35",
+            "Name": "Xinhu 1st Road",
+            "IfcType": "IfcStation",
+            "Chainage": 6.35
+          },
+          {
+            "Id": "STA_Y36",
+            "Name": "Songshan",
+            "IfcType": "IfcStation",
+            "Chainage": 8.035
+          },
+          {
+            "Id": "STA_Y37",
+            "Name": "Yongchun",
+            "IfcType": "IfcStation",
+            "Chainage": 8.785
+          },
+          {
+            "Id": "STA_Y38",
+            "Name": "Xiangshan",
+            "IfcType": "IfcStation",
+            "Chainage": 10.575
+          },
+          {
+            "Id": "STA_Y39",
+            "Name": "Wuxing Street",
+            "IfcType": "IfcStation",
+            "Chainage": 11.575
+          },
+          {
+            "Id": "STA_Y01",
+            "Name": "Taipei Zoo",
+            "IfcType": "IfcStation",
+            "Chainage": 14.732
+          }
+        ]
+      }
+    ]
+  }
+}

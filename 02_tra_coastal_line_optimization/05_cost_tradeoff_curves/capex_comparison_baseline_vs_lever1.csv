@@ -1,0 +1,10 @@
+wbs_code,category_name_zh,category_name_en,baseline_cost_twd_million,lever1_optimized_twd_million,cost_delta_twd_million,savings_pct,explanation_notes
+WBS01,平面第二線路基及軌道工程,Surface Second Track & Earthworks,4644.0,4644.0,0.0,0.0%,33.02 km surface track construction identical across both plans (allocated baseline direct share)
+WBS02,中港溪及後龍溪橋雙軌增建,Zhonggang & Houlong Bridge Duplication,2415.0,2415.0,0.0,0.0%,Shorter alluvial bridges duplicated to preserve local operational flexibility
+WBS03,大安溪橋雙軌新建(1100m),Daan River Bridge Duplication (1100m),2310.0,150.0,-2160.0,-93.5%,Lever 1: Retain existing single-track bridge with structure reinforcement; omit new NT$ 2.3B bridge
+WBS04,大甲溪橋雙軌新建(1250m),Dajia River Bridge Duplication (1250m),2625.0,150.0,-2475.0,-94.3%,Lever 1: Retain existing single-track bridge with structure reinforcement; omit new NT$ 2.6B bridge
+WBS05,橋端高速道岔及號誌ATP設備,Bridge Abutment Turnouts & ATP Upgrades,0.0,380.0,+380.0,+100.0%,Lever 1 Added: 4 sets No. 16 high-speed turnouts and vital dual-direction ATP advisory systems
+WBS06,電車線及供電系統擴建,Electrification & Power Supply,1590.0,1590.0,0.0,0.0%,Full corridor 25kV catenary extension
+WBS07,既有車站站場及月台調整,Station Track & Platform Adjustments,500.0,500.0,0.0,0.0%,16 stations platform lengthening and shelter upgrades
+WBS08,工程間接費、監造及預備金,Engineering Supervision & Contingency,2111.0,1521.0,-590.0,-27.9%,15% indirect markup proportional to direct civil expenditure
+TOTAL,總建設計畫經費 (新臺幣),TOTAL SCENARIO ARITHMETIC (TWD),16195.0,11350.0,-4845.0,-29.92%,Unvalidated arithmetic difference only; not a forecast or verified saving

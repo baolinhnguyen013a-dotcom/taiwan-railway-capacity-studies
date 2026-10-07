@@ -1,0 +1,6 @@
+distribution_id,delay_mechanism_name,statistical_distribution_type,mu_log_mean_or_factor,sigma_log_sd_or_dispersion,minimum_delay_min,maximum_delay_min,propagation_mechanism_notes
+DIST-01,Station Dwell Extension Primary Delay,Lognormal,2.35,0.82,0.5,18.0,"Passenger boarding congestion, wheelchair boarding, door cycling delays"
+DIST-02,Minor Signalling Dropout Primary Delay,Lognormal,1.85,0.65,0.2,12.0,"Temporary radio packet loss, axle counter brief miscount, automated reboot"
+DIST-03,Secondary Delay Knock-on Factor (Baseline Double Track),Linear Factor,1.15,0.12,1.0,1.45,Double track provides parallel buffer; following train absorbs delay via moving block margin
+DIST-04,Secondary Delay Knock-on Factor (Candidate S1 Single Track),Exponential Multiplier,2.45,0.35,1.5,4.2,"A 180s delay on southbound train causes opposing northbound train to hold at Zoo siding, doubling network delay"
+DIST-05,Secondary Delay Knock-on Factor (Candidate S3 Single Track),Exponential Multiplier,5.2,0.78,2.8,9.5,Catastrophic delay propagation: core line capacity collapses rapidly as trains queue at both single-track portals

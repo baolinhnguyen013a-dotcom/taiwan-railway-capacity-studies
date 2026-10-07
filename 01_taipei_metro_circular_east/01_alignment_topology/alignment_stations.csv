@@ -1,0 +1,13 @@
+station_id,station_code,station_name_zh,station_name_en,chainage_km,interstation_dist_m,easting_twd97,northing_twd97,longitude_wgs84,latitude_wgs84,platform_type,platform_length_m,platform_width_m,track_level_depth_m,ground_elevation_m,track_elevation_m,contract_package,transfer_lines
+ST01,Y29,劍南路,Jiannan Road,0.0,0,306000.0,2775200.0,121.5552,25.0847,Island Platform,80.0,10.0,-16.5,6.0,-10.5,CF710-NorthJct,"Wenhu Line (BR15), North Circular (Y29)"
+ST02,Y30,下塔悠,Xiatayou / Lequn,1.32,1320,306940.0,2774730.0,121.5645,25.0805,Island Platform,80.0,10.0,-28.1,4.5,-23.6,CF710,None
+ST03,Y31,洲子二號公園,Zhouzi Park,2.34,1020,307780.0,2774480.0,121.5728,25.0782,Stacked Side Platform,80.0,4.5,-26.5,5.0,-21.5,CF710,Neihu Tech Park Feeder Bus
+ST04,Y32,大港墘公園,Dagangqian Park,3.12,780,308250.0,2774010.0,121.5775,25.074,Island Platform,80.0,10.5,-24.2,5.5,-18.7,CF710,Wenhu Line Gangqian Station (Out-of-station ~400m)
+ST05,Y33,瑞光公園,Ruiguang Park,4.05,930,308650.0,2773370.0,121.5815,25.0682,Island Platform + Crossover,80.0,11.0,-22.5,6.0,-16.5,CF720,None (Mid-corridor Pocket Siding)
+ST06,Y34,內湖行政中心,Neihu Admin Center,5.15,1100,309290.0,2772850.0,121.5878,25.0635,Island Platform,80.0,10.0,-29.8,6.5,-23.3,CF720,Neihu Admin Center Bus Terminal
+ST07,Y35,新湖一路,Xinhu 1st Road / Jiuzong,6.35,1200,308420.0,2772020.0,121.5792,25.056,Island Platform + Depot Leads,80.0,12.0,-23.6,6.0,-17.6,CF730/CF740,"Minsheng-Xizhi Line (SB07 Planned), East Depot Leads"
+ST08,Y36,松山,Songshan,8.035,1685,308280.0,2771330.0,121.5778,25.0498,Stacked Island Platform,80.0,12.5,-34.5,7.0,-27.5,CF750,"TRA Western Line, Songshan-Xindian Line (G19)"
+ST09,Y37,永春,Yongchun,8.785,750,308100.0,2770360.0,121.576,25.041,Island Platform,80.0,11.0,-24.8,8.0,-16.8,CF750,Bannan Line (BL19)
+ST10,Y38,象山,Xiangshan,10.575,1790,307440.0,2769450.0,121.5695,25.0328,Island Platform + Crossover,80.0,12.0,-28.4,11.0,-17.4,CF760,Tamsui-Xinyi Line (R02)
+ST11,Y39,吳興街,Wuxing Street,11.575,1000,307110.0,2768640.0,121.5662,25.0255,Island Platform,80.0,10.0,-22.4,14.0,-8.4,CF760,Taipei Medical University Feeder Bus
+ST12,Y01,動物園,Taipei Zoo,14.732,3157,308450.0,2765850.0,121.5795,25.0003,Island Platform + Crossover,80.0,12.0,-25.2,28.0,2.8,CF763,"Wenhu Line (BR01), South Circular (Y01), Maokong Gondola"

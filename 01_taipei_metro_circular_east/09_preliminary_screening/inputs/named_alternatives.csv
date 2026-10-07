@@ -1,0 +1,5 @@
+alternative_id,section_name,start_station,end_station,links_spanned,link_count,length_m,intermediate_station_count,passing_loops_modeled,candidate_reference_id,rationale_notes
+Y39-Y01,Mountain Tunnel Section,Y39,Y01,LK11,1,3240,0,NOT_MODELED,S1,Single-track mountain tunnel counterfactual between Xiangshan and Taipei Zoo
+Y35-Y36,Keelung River Undercrossing,Y35,Y36,LK07,1,1685,0,NOT_MODELED,S2,Single-track river undercrossing between Neihu Tech Park and Raohe/Songshan
+Y30-Y33,Ruiguang Road Core Corridor,Y30,Y33,LK02;LK03;LK04,3,2395,2,NOT_MODELED,S3,Single-track corridor under Ruiguang Road passing Y31 and Y32
+Y38-Y01,Southern Tail Extended Section,Y38,Y01,LK10;LK11,2,4240,1,NOT_MODELED,S4,Extended single-track southern section from Xiangshan through Wuxing to Zoo

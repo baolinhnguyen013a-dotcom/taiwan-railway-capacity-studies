@@ -1,0 +1,5 @@
+plan_id,single_track_section,run_forward_s,run_reverse_s,aggregate_direction_change_s,minimum_cycle_without_recovery_s,required_recovery_margin_s,required_directional_headway_s,tested_directional_headway_s,actual_margin_s,screening_tph_per_direction,nominal_capacity_pphpd,official_target_demand_pphpd,core_integration_note,occupation_screen,nominal_demand_screen,overall_status
+COLLECTED_S1_PLAN,Y39-Y01,193.0,193.0,36.0,422.0,60.0,482.0,360.0,-62.0,10.000,6500.0,10310.0,Collected 3-minute core / 6-minute outer claim,FAIL,FAIL,FAIL
+STANDALONE_SCREENING_PLAN,Y39-Y01,193.0,193.0,36.0,422.0,60.0,482.0,450.0,28.0,8.000,5200.0,10310.0,Section-only screen; not periodic with a 120s or 180s core,FAIL,FAIL,FAIL
+OPENING_INTEGRATED_PATTERN,Y39-Y01,193.0,193.0,36.0,422.0,60.0,482.0,540.0,118.0,6.667,4333.3,10310.0,180s core; every third train continues through S1,PASS,FAIL,FAIL
+TARGET_INTEGRATED_PATTERN,Y39-Y01,193.0,193.0,36.0,422.0,60.0,482.0,480.0,58.0,7.500,4875.0,10310.0,120s core; every fourth train continues through S1,FAIL,FAIL,FAIL

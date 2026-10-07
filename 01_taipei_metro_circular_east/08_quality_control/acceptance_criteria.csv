@@ -1,0 +1,7 @@
+criterion_id,category,criterion,threshold,constraint_type,status,note
+AC-01,SAFETY,All applicable Taiwan fire/life-safety and railway requirements,Authority-confirmed compliance,HARD,UNVERIFIED_PENDING_COMPLIANCE_WORKBOOK,Station evacuation data is an official width/lane design summary only; egress times and PASS determinations are unsupported derived values.
+AC-02,CAPACITY,No demand above nominal AW3 capacity in the design scenario,demand/capacity <= 1.00,HARD,DEFINED_FOR_SCREENING,"Baseline provides 15,600 pphpd vs 15,250 pphpd demand (V/C = 0.978)."
+AC-03,OPERATIONS,Single-track directional cycle includes recovery,H >= t_forward + t_reverse + aggregate direction-change allowance + 60 s,HARD_SCREEN,DEFINED_FOR_SCREENING,S1 fails alternating screen; requires twin-bore geometry.
+AC-04,RELIABILITY,95th-percentile passenger delay,Double track unconstrained moving block headway 90s design / 150s service,HARD,DEFINED_FOR_BASELINE_NO_WHOLE_RING_SIMULATION,Target headway is defined for screening; whole-ring delay simulation is not established.
+AC-05,RECOVERY,Network recovery time after specified disruptions,Crossovers at Y33 and pocket sidings at Y34-Y35 and Y38-Y39,HARD,UNVERIFIED_IN_INFRASTRUCTURE,Special trackwork and crossover layout lack traceable contract drawing references.
+AC-06,GROWTH,Future capacity reserve,Headway expandable to 90s GoA4 design limit,HARD,UNVERIFIED_PROXY_TARGET,90s / 40 tph GoA4 CBTC expansion is generic proxy data from rolling_stock_signalling; not an operator-committed project infrastructure guarantee.

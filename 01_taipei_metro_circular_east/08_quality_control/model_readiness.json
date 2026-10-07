@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-10-06",
+  "source_snapshot_status": "CURRENT_WORKSPACE_SNAPSHOT_MATCHED",
+  "historical_preservation_status": "NOT_VERIFIABLE_FROM_AVAILABLE_HISTORY",
+  "snapshot_certified_file_count": 36,
+  "overall_status": "READY_FOR_PRELIMINARY_SCREENING_ONLY",
+  "not_ready_for": [
+    "formal optimization",
+    "safety compliance determination",
+    "microscopic timetable validation",
+    "whole-ring resilience simulation",
+    "bankable lifecycle-cost conclusion",
+    "reinforcement-learning training"
+  ],
+  "blocking_findings": [
+    "F-001",
+    "F-002",
+    "F-006",
+    "F-007",
+    "F-008",
+    "F-009",
+    "F-010",
+    "F-011",
+    "F-013",
+    "F-014"
+  ],
+  "supported_next_step": "Dataset is restricted to preliminary screening only. Blocking findings remain open regarding value-level engineering traceability, evacuation workbook reproducibility, whole-ring operations, microscopic simulation, non-bankable lifecycle NPV, railML XSD validation, and station-specific geometry. Only official demand benchmarks, service headway capacity benchmarks, S1 screening rejection, and construction CAPEX/discount rates are defensible."
+}

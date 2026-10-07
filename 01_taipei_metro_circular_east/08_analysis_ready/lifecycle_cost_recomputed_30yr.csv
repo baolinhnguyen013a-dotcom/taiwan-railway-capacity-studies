@@ -1,0 +1,6 @@
+alternative_id,reported_lifecycle_npv_twd_bn,recomputed_lifecycle_npv_twd_bn,reported_minus_recomputed_twd_bn,passenger_delay_penalty_npv_twd_bn,recomputed_total_economic_cost_twd_bn,recomputed_saving_vs_baseline_pct,formula,evidence_status
+BL-Double,138.200,149.622,-11.422,0.0,149.622,0.000,CAPEX + real annual OPEX annuity (years 1-30) + renewal/(1+r)^15 - salvage/(1+r)^30 + passenger delay,ARITHMETIC_ONLY_INPUT_COSTS_UNVERIFIED
+ALT-S1,131.420,142.708,-11.288,0.95,143.658,3.986,CAPEX + real annual OPEX annuity (years 1-30) + renewal/(1+r)^15 - salvage/(1+r)^30 + passenger delay,ARITHMETIC_ONLY_INPUT_COSTS_UNVERIFIED
+ALT-S2,135.100,146.511,-11.411,28.4,174.911,-16.903,CAPEX + real annual OPEX annuity (years 1-30) + renewal/(1+r)^15 - salvage/(1+r)^30 + passenger delay,ARITHMETIC_ONLY_INPUT_COSTS_UNVERIFIED
+ALT-S3,133.150,144.602,-11.452,14.6,159.202,-6.403,CAPEX + real annual OPEX annuity (years 1-30) + renewal/(1+r)^15 - salvage/(1+r)^30 + passenger delay,ARITHMETIC_ONLY_INPUT_COSTS_UNVERIFIED
+ALT-S4,129.200,140.341,-11.141,2.4,142.741,4.599,CAPEX + real annual OPEX annuity (years 1-30) + renewal/(1+r)^15 - salvage/(1+r)^30 + passenger delay,ARITHMETIC_ONLY_INPUT_COSTS_UNVERIFIED

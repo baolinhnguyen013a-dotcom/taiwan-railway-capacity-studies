@@ -1,0 +1,4 @@
+policy_id,policy_name,window_start,window_end,duration_hr,maintenance_scope,redundancy_and_isolation_implications
+MP-01,Nightly Non-Revenue Maintenance Window,00:30,05:00,4.5,"Track, third-rail and tunnel washing possession",Full electrical and track lockout; work trains dispatched from South/East Depots
+MP-02,Single-Bore Maintenance on Double-Track Baseline,00:00,05:30,5.5,Bore-by-bore maintenance with single-line running capability,One bore isolated while adjacent bore operates single-line working for late-night/early-morning sweeps
+MP-03,Single-Track Candidate Section (S1) Maintenance Challenge,00:30,05:00,4.5,Complete track closure required; no parallel bore bypass,All maintenance must fit strictly within 4.5h window; rail grinding and tamping require total line shutdown; no single-line redundancy

@@ -1,0 +1,38 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# LaTeX build products
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Editor and local environment files
+.idea/
+.vscode/
+.env
+.env.*
+
+# Internal partisan advocacy material is outside the public research release.
+02_tra_coastal_line_optimization/DPP_TAICHUNG_POLICY_MEMO_AND_INTERPELLATION.*
+
+# Internal and misleading submission-format drafts are outside the release.
+02_tra_coastal_line_optimization/FINAL_SUBMISSION_REPORT_MOTC.*
+02_tra_coastal_line_optimization/EXECUTIVE_POLICY_WHITE_PAPER.md
+deliverables/
+
+# Coastal outputs are regenerated locally. Keep only their explanatory README.
+02_tra_coastal_line_optimization/outputs/*
+!02_tra_coastal_line_optimization/outputs/README.md

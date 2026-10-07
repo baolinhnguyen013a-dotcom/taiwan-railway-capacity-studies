@@ -1,0 +1,7 @@
+equipment_id,subsystem_name,engineering_domain,mtbf_operating_hours,failure_rate_lambda_per_hour,mttr_repair_hours,predominant_failure_modes,operational_risk_implication
+EQ-01,Electro-Hydraulic Switch Machine (Turnout),Signalling / Trackside,24000.0,4.17e-05,1.2,"Point lock failure, switch obstruction, drive motor trip",Critical single-track risk: switch failure at boundary crossover blocks entire line
+EQ-02,CBTC Wayside Zone Controller (ZC),Signalling / Computers,55000.0,1.82e-05,0.5,"Processor stall, 2-out-of-3 voting mismatch",Hot-standby redundant architecture; automatic switchover < 500ms
+EQ-03,Train-Borne CBTC Controller (VOBC),Signalling / Onboard,42000.0,2.38e-05,0.8,"Tachometer pulse error, radar transceiver fault",Dual redundant VOBC per train; graceful fallback to fixed block
+EQ-04,EMU Traction VVVF Inverter / Motor,Rolling Stock Propulsion,75000.0,1.33e-05,1.8,"IGBT module breakdown, cooling pump failure",1 motor failure isolates 1 bogie; train retains 75% power to clear gradient
+EQ-05,Platform Screen Door (PSD) Drive Unit,Station Infrastructure,32000.0,3.12e-05,0.4,"Obstacle obstruction, door interlock open",Bypass switch in cab allows departure with manual confirmation
+EQ-06,750V DC Conductor Rail Section Insulator,Power Supply,120000.0,8.33e-06,2.5,"Short circuit flashover, bracket fracture",De-energizes electrical block; requires emergency diesel work train

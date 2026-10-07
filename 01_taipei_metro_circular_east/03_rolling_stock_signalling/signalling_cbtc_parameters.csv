@@ -1,0 +1,14 @@
+cbtc_parameter,value,unit,subsystem_layer,description
+System Automation Grade,GoA4 (UTO),Grade,ATS/ATP/ATO,Unattended Train Operation; IEEE 1474.1 compliant CBTC
+Train-to-Wayside Radio,Redundant 5.8GHz / LTE-R,Protocol,Telecom / Radio,Dual radio modems on trains; wayside access points spaced at 150-200m
+Block Type,Moving Block,Type,ATP Core,Dynamic safety envelope calculated based on train speed and braking curve
+Minimum Design Technical Headway,90.0,seconds,Signalling Capacity,Headway achievable under baseline double-track alignment
+Nominal Double-Track Operating Headway,120.0 - 180.0,seconds,Timetable Service,Peak commercial headway on Circular Line East Section
+Route Proving & Interlocking Locking Time,8.5,seconds,Interlocking IXL,"Time for interlocking to verify switches, detector loops and set route"
+Route Release Clearance Latency,4.0,seconds,Interlocking IXL,Time to release flank protection after rear train clearing overlap
+Switch Machine (Point) Throw Time,5.5,seconds,Trackside Machine,Electro-hydraulic turnout machine operating time
+Worst-Case Stopping Distance at 80 km/h (Dry),246.2,meters,ATP Safety Distance,Full emergency braking from 80 km/h on dry flat tangent rail
+Worst-Case Stopping Distance at 80 km/h (Wet+Lag),312.0,meters,ATP Safety Distance,Emergency braking including 1.5s traction cutoff latency on degraded wet rail
+Safety Overlap Distance Buffer,50.0,meters,Safety Margin,Margin added beyond worst-case stopping point
+Zone Controller (ZC) Cycle Polling Rate,500.0,milliseconds,Wayside Processor,Vital cycle execution frequency for position authority generation
+Terminal Turnback Minimum Cycle at Scissors,75.0,seconds,Operational Turnback,"Includes stopping, driverless cab swap sequence, switch throw, locking, depart"
